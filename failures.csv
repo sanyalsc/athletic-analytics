@@ -1,0 +1,25 @@
+,0,1
+0,"2024-04-01, TEX-TBA",'utf-8' codec can't decode byte 0xe1 in position 13502: invalid continuation byte
+1,"2024-04-02, TEX-TBA",'utf-8' codec can't decode byte 0xe1 in position 13334: invalid continuation byte
+2,"2024-04-03, TEX-TBA",'utf-8' codec can't decode byte 0xe1 in position 13895: invalid continuation byte
+3,"2024-04-04, DET-NYN",list index out of range
+4,"2024-04-05, PHI-WAS",'utf-8' codec can't decode byte 0xe1 in position 13724: invalid continuation byte
+5,"2024-04-06, PHI-WAS",'utf-8' codec can't decode byte 0xe1 in position 13742: invalid continuation byte
+6,"2024-04-07, PHI-WAS",'utf-8' codec can't decode byte 0xe1 in position 13475: invalid continuation byte
+7,"2024-04-13, NYA-CLE",list index out of range
+8,"2024-04-13, MIN-DET",list index out of range
+9,"2024-04-15, CLE-BOS",'utf-8' codec can't decode byte 0xe1 in position 14114: invalid continuation byte
+10,"2024-04-16, CLE-BOS",'utf-8' codec can't decode byte 0xe1 in position 13804: invalid continuation byte
+11,"2024-04-17, CLE-BOS",'utf-8' codec can't decode byte 0xe1 in position 13821: invalid continuation byte
+12,"2024-04-17, KCA-CHA",list index out of range
+13,"2024-04-18, CLE-BOS",'utf-8' codec can't decode byte 0xe1 in position 12464: invalid continuation byte
+14,"2024-04-19, DET-MIN",'utf-8' codec can't decode byte 0xe1 in position 14009: invalid continuation byte
+15,"2024-04-20, DET-MIN",'utf-8' codec can't decode byte 0xe1 in position 13989: invalid continuation byte
+16,"2024-04-20, MIA-CHN",list index out of range
+17,"2024-04-21, SEA-COL",list index out of range
+18,"2024-04-21, DET-MIN",'utf-8' codec can't decode byte 0xe1 in position 13811: invalid continuation byte
+19,"2024-04-22, NYN-SFN",'utf-8' codec can't decode byte 0xe1 in position 13163: invalid continuation byte
+20,"2024-04-23, NYN-SFN",'utf-8' codec can't decode byte 0xe1 in position 14122: invalid continuation byte
+21,"2024-04-24, NYN-SFN",'utf-8' codec can't decode byte 0xe1 in position 13903: invalid continuation byte
+22,"2024-04-26, PHI-SDN",'utf-8' codec can't decode byte 0xe1 in position 13640: invalid continuation byte
+23,"2024-04-27, PHI-SDN",'utf-8' codec can't decode byte 0xe1 in position 13571: invalid continuation byte

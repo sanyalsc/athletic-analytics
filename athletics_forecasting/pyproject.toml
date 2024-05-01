@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "athletics-forecasting"
+version = "0.1.0"
+description = ""
+authors = ["sanyalsc <sanyalster@gmail.com>"]
+readme = "README.md"
+packages = [{include = "athletics_forecasting", from = "src"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "2.2.2"
+html-table-parser-python3 = "0.3.1"
+xgboost = "2.0.3"
+scikit-learn = "^1.4.2"
+
+[tool.poetry.group.dev.dependencies]
+jupyter = "^1.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

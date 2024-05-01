@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:\Users\Alekche\Documents\UVA\MLB_data\team.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="125"/><column_width id="3" width="3277"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,5:mainteams"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="batters" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="158"/><column index="2" value="58"/><column index="3" value="57"/><column index="4" value="52"/><column index="5" value="52"/><column index="6" value="52"/><column index="7" value="52"/><column index="8" value="52"/><column index="9" value="52"/><column index="10" value="52"/><column index="11" value="52"/><column index="12" value="52"/><column index="13" value="52"/><column index="14" value="52"/><column index="15" value="52"/><column index="16" value="52"/><column index="17" value="52"/><column index="18" value="52"/><column index="19" value="52"/><column index="20" value="52"/><column index="21" value="176"/><column index="22" value="176"/><column index="23" value="91"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="teams" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="176"/><column index="2" value="52"/><column index="3" value="52"/><column index="4" value="52"/><column index="5" value="63"/><column index="6" value="58"/><column index="7" value="52"/><column index="8" value="64"/><column index="9" value="52"/><column index="10" value="63"/><column index="11" value="52"/><column index="12" value="176"/><column index="13" value="91"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="SQL 1">WITH lagg AS (
+SELECT 
+	win,
+	LAG(win,1) OVER (
+		PARTITION BY team, year
+		ORDER BY date) as prev,
+	LAG(win,1) OVER (
+		PARTITION BY team, year
+		ORDER BY date) as prev_streak,
+	date,
+	team,
+	year
+FROM teams),
+
+cs AS (SELECT 
+	CASE
+		WHEN prev IS NULL AND win THEN 1
+		WHEN prev IS NULL AND win=0 THEN -1
+		WHEN win AND prev THEN prev_streak+1
+		WHEN win=0 AND prev=0 THEN prev_streak-1
+		WHEN win=0 AND prev THEN -1
+		WHEN win AND prev=0 THEN 1
+		ELSE NULL
+	END AS streak,
+	win,
+	prev,
+	date,
+	team,
+	year,
+	prev_streak
+FROM lagg)
+
+SELECT
+	coalesce(
+		LAG(streak, 1) OVER (
+			PARTITION BY team, year
+			ORDER BY date),
+		0) as streak,
+	date,
+	team,
+	win,
+	prev,
+	prev_streak
+FROM cs
+ORDER BY team, date</sql><sql name="SQL 4">WITH lagg AS (
+SELECT 
+	win,
+	LAG(win,1) OVER (
+		PARTITION BY team, year
+		ORDER BY date) as prev,
+	date,
+	team,
+	year
+FROM teams),
+
+streaks AS (SELECT 
+	CASE
+		WHEN prev IS NULL THEN 0
+		WHEN win != prev THEN 1
+		WHEN win=prev THEN 0
+		ELSE NULL
+	END AS streak,
+	win,
+	prev,
+	date,
+	team,
+	year
+FROM lagg),
+numbered AS (SELECT
+	SUM(streak) OVER (
+		PARTITION by team, year
+		ORDER BY date) as streakno,
+		win,
+	prev,
+	date,
+	team,
+	year,
+	streak
+FROM streaks),
+res AS (SELECT 
+	COUNT(*) OVER (
+		PARTITION BY team, year, streakno
+		ORDER BY date) as s,
+		win,
+	prev,
+	date,
+	team,
+	year,
+	CASE
+		WHEN win THEN win
+		ELSE -1
+	END as mply
+FROM numbered)
+
+UPDATE teams
+SET streak = res.mply*res.s
+FROM res
+WHERE teams.date = res.date AND teams.team=res.team
+</sql><sql name="SQL 2">with lagged AS (select
+	team,
+	date,
+	win,
+	coalesce(LAG(streak,1) OVER(
+		PARTITION BY team, year
+		ORDER BY date),0) as streak,
+	coalesce(LAG(games_played,1) OVER(
+		PARTITION BY team, year
+		ORDER BY date), 0) as games_played,
+	coalesce(LAG(wins, 1) OVER(
+		PARTITION BY team, year
+		ORDER BY date),0) as wins
+ from teams
+ORDER by team, date)
+
+UPDATE teams
+SET games_played = lagged.games_played
+FROM lagged
+WHERE teams.date = lagged.date and teams.team = lagged.team</sql><sql name="SQL 3">SELECT * FROM teams
+ORDER by team, date</sql><current_tab id="3"/></tab_sql></sqlb_project>

@@ -1,0 +1,28 @@
+,box date,month,wkday,game type,game count,list of games
+,2024-04-01,Apr,Mon,Regular Season,13,COL-CHN ... PIT-WAS ... KCA-BAL ... CIN-PHI ... ANA-MIA ... TEX-TBA ... DET-NYN ... TOR-HOU ... BOS-OAK ... CLE-SEA ... SLN-SDN ... NYA-ARI ... SFN-LAN
+,2024-04-02,Apr,Tue,Regular Season,13,MIN-MIL ... KCA-BAL ... CIN-PHI ... ANA-MIA ... TEX-TBA ... COL-CHN ... ATL-CHA ... TOR-HOU ... BOS-OAK ... CLE-SEA ... SLN-SDN ... NYA-ARI ... SFN-LAN
+,2024-04-03,Apr,Wed,Regular Season,13,KCA-BAL ... TEX-TBA ... ANA-MIA ... MIN-MIL ... BOS-OAK ... NYA-ARI ... CIN-PHI ... CLE-SEA ... SLN-SDN ... PIT-WAS ... COL-CHN ... TOR-HOU ... SFN-LAN
+,2024-04-04,Apr,Thu,Regular Season,6,DET-NYN ... DET-NYN ... PIT-WAS ... CLE-MIN ... MIA-SLN ... CHA-KCA
+,2024-04-05,Apr,Fri,Regular Season,13,TOR-NYA ... OAK-DET ... LAN-CHN ... TBA-COL ... BAL-PIT ... SDN-SFN ... NYN-CIN ... PHI-WAS ... ARI-ATL ... CHA-KCA ... HOU-TEX ... SEA-MIL ... BOS-ANA
+,2024-04-06,Apr,Sat,Regular Season,15,OAK-DET ... CLE-MIN ... MIA-SLN ... LAN-CHN ... BAL-PIT ... PHI-WAS ... NYN-CIN ... HOU-TEX ... TOR-NYA ... CHA-KCA ... SEA-MIL ... ARI-ATL ... TBA-COL ... SDN-SFN ... BOS-ANA
+,2024-04-07,Apr,Sun,Regular Season,14,BAL-PIT ... PHI-WAS ... ARI-ATL ... TOR-NYA ... NYN-CIN ... OAK-DET ... CHA-KCA ... SEA-MIL ... MIA-SLN ... LAN-CHN ... TBA-COL ... SDN-SFN ... BOS-ANA ... HOU-TEX
+,2024-04-08,Apr,Mon,Regular Season,13,CHA-CLE ... MIA-NYA ... DET-PIT ... MIL-CIN ... SEA-TOR ... NYN-ATL ... LAN-MIN ... PHI-SLN ... HOU-TEX ... ARI-COL ... TBA-ANA ... CHN-SDN ... WAS-SFN
+,2024-04-09,Apr,Tue,Regular Season,15,DET-PIT ... BAL-BOS ... CHA-CLE ... MIL-CIN ... MIA-NYA ... SEA-TOR ... NYN-ATL ... HOU-KCA ... LAN-MIN ... PHI-SLN ... OAK-TEX ... ARI-COL ... TBA-ANA ... WAS-SFN ... CHN-SDN
+,2024-04-10,Apr,Wed,Regular Season,13,LAN-MIN ... PHI-SLN ... SEA-TOR ... ARI-COL ... WAS-SFN ... TBA-ANA ... CHA-CLE ... CHN-SDN ... MIL-CIN ... MIA-NYA ... BAL-BOS ... HOU-KCA ... OAK-TEX
+,2024-04-11,Apr,Thu,Regular Season,5,NYN-ATL ... HOU-KCA ... OAK-TEX ... PIT-PHI ... BAL-BOS
+,2024-04-12,Apr,Fri,Regular Season,14,MIN-DET ... PIT-PHI ... SFN-TBA ... MIL-BAL ... COL-TOR ... ANA-BOS ... KCA-NYN ... ATL-MIA ... CIN-CHA ... TEX-HOU ... WAS-OAK ... CHN-SEA ... SLN-ARI ... SDN-LAN
+,2024-04-13,Apr,Sat,Regular Season,17,NYA-CLE ... NYA-CLE ... MIN-DET ... MIN-DET ... KCA-NYN ... CIN-CHA ... COL-TOR ... TEX-HOU ... PIT-PHI ... MIL-BAL ... WAS-OAK ... ANA-BOS ... SFN-TBA ... ATL-MIA ... SLN-ARI ... SDN-LAN ... CHN-SEA
+,2024-04-14,Apr,Sun,Regular Season,15,ANA-BOS ... PIT-PHI ... MIL-BAL ... COL-TOR ... KCA-NYN ... SFN-TBA ... MIN-DET ... ATL-MIA ... NYA-CLE ... TEX-HOU ... CIN-CHA ... WAS-OAK ... CHN-SEA ... SLN-ARI ... SDN-LAN
+,2024-04-15,Apr,Mon,Regular Season,15,CLE-BOS ... MIN-BAL ... TEX-DET ... COL-PHI ... SFN-MIA ... ANA-TBA ... NYA-TOR ... PIT-NYN ... KCA-CHA ... SDN-MIL ... ATL-HOU ... CHN-ARI ... SLN-OAK ... CIN-SEA ... WAS-LAN
+,2024-04-16,Apr,Tue,Regular Season,14,TEX-DET ... MIN-BAL ... COL-PHI ... SFN-MIA ... ANA-TBA ... NYA-TOR ... CLE-BOS ... PIT-NYN ... SDN-MIL ... ATL-HOU ... CHN-ARI ... CIN-SEA ... SLN-OAK ... WAS-LAN
+,2024-04-17,Apr,Wed,Regular Season,16,SFN-MIA ... MIN-BAL ... PIT-NYN ... TEX-DET ... SDN-MIL ... ATL-HOU ... KCA-CHA ... KCA-CHA ... NYA-TOR ... WAS-LAN ... SLN-OAK ... CHN-ARI ... CIN-SEA ... COL-PHI ... ANA-TBA ... CLE-BOS
+,2024-04-18,Apr,Thu,Regular Season,4,ANA-TBA ... TEX-DET ... CLE-BOS ... ARI-SFN
+,2024-04-19,Apr,Fri,Regular Season,14,MIA-CHN ... ANA-CIN ... BOS-PIT ... CHA-PHI ... HOU-WAS ... TBA-NYA ... OAK-CLE ... TEX-ATL ... BAL-KCA ... DET-MIN ... MIL-SLN ... TOR-SDN ... NYN-LAN ... ARI-SFN
+,2024-04-20,Apr,Sat,Regular Season,16,TBA-NYA ... DET-MIN ... MIL-SLN ... MIA-CHN ... MIA-CHN ... HOU-WAS ... NYN-LAN ... BOS-PIT ... ARI-SFN ... CHA-PHI ... OAK-CLE ... ANA-CIN ... BAL-KCA ... TEX-ATL ... SEA-COL ... TOR-SDN
+,2024-04-21,Apr,Sun,Regular Season,16,HOU-WAS ... BOS-PIT ... CHA-PHI ... TBA-NYA ... ANA-CIN ... OAK-CLE ... BAL-KCA ... DET-MIN ... MIL-SLN ... MIA-CHN ... SEA-COL ... SEA-COL ... ARI-SFN ... NYN-LAN ... TOR-SDN ... TEX-ATL
+,2024-04-22,Apr,Mon,Regular Season,11,OAK-NYA ... PHI-CIN ... MIL-PIT ... DET-TBA ... MIA-ATL ... TOR-KCA ... CHA-MIN ... ARI-SLN ... SDN-COL ... BAL-ANA ... NYN-SFN
+,2024-04-23,Apr,Tue,Regular Season,15,BOS-CLE ... PHI-CIN ... MIL-PIT ... LAN-WAS ... DET-TBA ... OAK-NYA ... MIA-ATL ... HOU-CHN ... TOR-KCA ... CHA-MIN ... ARI-SLN ... SEA-TEX ... SDN-COL ... BAL-ANA ... NYN-SFN
+,2024-04-24,Apr,Wed,Regular Season,15,ARI-SLN ... NYN-SFN ... BAL-ANA ... BOS-CLE ... PHI-CIN ... MIL-PIT ... LAN-WAS ... DET-TBA ... OAK-NYA ... MIA-ATL ... HOU-CHN ... TOR-KCA ... CHA-MIN ... SEA-TEX ... SDN-COL
+,2024-04-25,Apr,Thu,Regular Season,9,MIL-PIT ... BOS-CLE ... PHI-CIN ... CHA-MIN ... HOU-CHN ... SEA-TEX ... SDN-COL ... LAN-WAS ... OAK-NYA
+,2024-04-26,Apr,Fri,Regular Season,14,KCA-DET ... OAK-BAL ... LAN-TOR ... CHN-BOS ... SLN-NYN ... WAS-MIA ... CLE-ATL ... TBA-CHA ... CIN-TEX ... NYA-MIL ... MIN-ANA ... ARI-SEA ... PHI-SDN ... PIT-SFN
+,2024-04-27,Apr,Sat,Regular Season,15,LAN-TOR ... OAK-BAL ... SLN-NYN ... CIN-TEX ... CHN-BOS ... WAS-MIA ... HOU-COL ... KCA-DET ... TBA-CHA ... NYA-MIL ... CLE-ATL ... PHI-SDN ... PIT-SFN ... MIN-ANA ... ARI-SEA

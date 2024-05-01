@@ -1,0 +1,364 @@
+,box date,month,wkday,game type,game count,list of games
+,2022-04-07,Apr,Thu,Regular Season,7,SDN-ARI ... CIN-ATL ... MIL-CHN ... PIT-SLN ... NYN-WAS ... HOU-ANA ... CLE-KCA
+,2022-04-08,Apr,Fri,Regular Season,12,SDN-ARI ... CIN-ATL ... LAN-COL ... OAK-PHI ... MIA-SFN ... NYN-WAS ... HOU-ANA ... CHA-DET ... SEA-MIN ... BOS-NYA ... BAL-TBA ... TEX-TOR
+,2022-04-09,Apr,Sat,Regular Season,15,SDN-ARI ... CIN-ATL ... MIL-CHN ... LAN-COL ... OAK-PHI ... MIA-SFN ... PIT-SLN ... NYN-WAS ... HOU-ANA ... CHA-DET ... CLE-KCA ... SEA-MIN ... BOS-NYA ... BAL-TBA ... TEX-TOR
+,2022-04-10,Apr,Sun,Regular Season,15,SDN-ARI ... CIN-ATL ... MIL-CHN ... LAN-COL ... OAK-PHI ... MIA-SFN ... PIT-SLN ... NYN-WAS ... HOU-ANA ... CHA-DET ... CLE-KCA ... SEA-MIN ... BOS-NYA ... BAL-TBA ... TEX-TOR
+,2022-04-11,Apr,Mon,Regular Season,11,WAS-ATL ... NYN-PHI ... SDN-SFN ... MIA-ANA ... MIL-BAL ... BOS-DET ... CLE-KCA ... SEA-MIN ... TOR-NYA ... OAK-TBA ... COL-TEX
+,2022-04-12,Apr,Tue,Regular Season,15,HOU-ARI ... WAS-ATL ... CLE-CIN ... NYN-PHI ... CHN-PIT ... SDN-SFN ... KCA-SLN ... MIA-ANA ... MIL-BAL ... SEA-CHA ... BOS-DET ... LAN-MIN ... TOR-NYA ... OAK-TBA ... COL-TEX
+,2022-04-13,Apr,Wed,Regular Season,12,HOU-ARI ... WAS-ATL ... CLE-CIN ... NYN-PHI ... CHN-PIT ... SDN-SFN ... MIL-BAL ... SEA-CHA ... BOS-DET ... LAN-MIN ... TOR-NYA ... OAK-TBA
+,2022-04-14,Apr,Thu,Regular Season,11,CHN-COL ... CIN-LAN ... PHI-MIA ... SLN-MIL ... WAS-PIT ... ATL-SDN ... SEA-CHA ... DET-KCA ... TOR-NYA ... OAK-TBA ... ANA-TEX
+,2022-04-15,Apr,Fri,Regular Season,15,CHN-COL ... CIN-LAN ... PHI-MIA ... SLN-MIL ... ARI-NYN ... WAS-PIT ... ATL-SDN ... NYA-BAL ... MIN-BOS ... TBA-CHA ... SFN-CLE ... DET-KCA ... HOU-SEA ... ANA-TEX ... OAK-TOR
+,2022-04-16,Apr,Sat,Regular Season,15,CHN-COL ... CIN-LAN ... PHI-MIA ... SLN-MIL ... ARI-NYN ... WAS-PIT ... ATL-SDN ... NYA-BAL ... MIN-BOS ... TBA-CHA ... SFN-CLE ... DET-KCA ... HOU-SEA ... ANA-TEX ... OAK-TOR
+,2022-04-17,Apr,Sun,Regular Season,14,CHN-COL ... CIN-LAN ... PHI-MIA ... SLN-MIL ... ARI-NYN ... WAS-PIT ... ATL-SDN ... NYA-BAL ... MIN-BOS ... TBA-CHA ... SFN-CLE ... HOU-SEA ... ANA-TEX ... OAK-TOR
+,2022-04-18,Apr,Mon,Regular Season,8,TBA-CHN ... PHI-COL ... ATL-LAN ... PIT-MIL ... CIN-SDN ... MIN-BOS ... ANA-HOU ... BAL-OAK
+,2022-04-19,Apr,Tue,Regular Season,16,TBA-CHN ... PHI-COL ... ATL-LAN ... SLN-MIA ... PIT-MIL ... SFN-NYN ... SFN-NYN ... CIN-SDN ... ARI-WAS ... ARI-WAS ... TOR-BOS ... NYA-DET ... ANA-HOU ... MIN-KCA ... BAL-OAK ... TEX-SEA
+,2022-04-20,Apr,Wed,Regular Season,16,TBA-CHN ... PHI-COL ... ATL-LAN ... SLN-MIA ... PIT-MIL ... SFN-NYN ... CIN-SDN ... ARI-WAS ... TOR-BOS ... CHA-CLE ... CHA-CLE ... NYA-DET ... ANA-HOU ... MIN-KCA ... BAL-OAK ... TEX-SEA
+,2022-04-21,Apr,Thu,Regular Season,10,PIT-CHN ... SLN-MIA ... SFN-NYN ... ARI-WAS ... TOR-BOS ... CHA-CLE ... NYA-DET ... MIN-KCA ... BAL-OAK ... TEX-SEA
+,2022-04-22,Apr,Fri,Regular Season,14,NYN-ARI ... MIA-ATL ... PIT-CHN ... SLN-CIN ... MIL-PHI ... LAN-SDN ... SFN-WAS ... BAL-ANA ... TOR-HOU ... CHA-MIN ... CLE-NYA ... TEX-OAK ... KCA-SEA ... BOS-TBA
+,2022-04-23,Apr,Sat,Regular Season,16,NYN-ARI ... MIA-ATL ... PIT-CHN ... SLN-CIN ... MIL-PHI ... LAN-SDN ... SFN-WAS ... BAL-ANA ... COL-DET ... COL-DET ... TOR-HOU ... CHA-MIN ... CLE-NYA ... TEX-OAK ... KCA-SEA ... BOS-TBA
+,2022-04-24,Apr,Sun,Regular Season,15,NYN-ARI ... MIA-ATL ... PIT-CHN ... SLN-CIN ... MIL-PHI ... LAN-SDN ... SFN-WAS ... BAL-ANA ... COL-DET ... TOR-HOU ... CHA-MIN ... CLE-NYA ... TEX-OAK ... KCA-SEA ... BOS-TBA
+,2022-04-25,Apr,Mon,Regular Season,7,LAN-ARI ... SFN-MIL ... COL-PHI ... NYN-SLN ... CLE-ANA ... HOU-TEX ... BOS-TOR
+,2022-04-26,Apr,Tue,Regular Season,15,LAN-ARI ... CHN-ATL ... SDN-CIN ... COL-PHI ... MIL-PIT ... OAK-SFN ... NYN-SLN ... MIA-WAS ... CLE-ANA ... KCA-CHA ... DET-MIN ... BAL-NYA ... SEA-TBA ... HOU-TEX ... BOS-TOR
+,2022-04-27,Apr,Wed,Regular Season,15,LAN-ARI ... CHN-ATL ... SDN-CIN ... COL-PHI ... MIL-PIT ... OAK-SFN ... NYN-SLN ... MIA-WAS ... CLE-ANA ... KCA-CHA ... DET-MIN ... BAL-NYA ... SEA-TBA ... HOU-TEX ... BOS-TOR
+,2022-04-28,Apr,Thu,Regular Season,13,CHN-ATL ... SDN-CIN ... COL-PHI ... MIL-PIT ... ARI-SLN ... MIA-WAS ... CLE-ANA ... KCA-CHA ... DET-MIN ... BAL-NYA ... SEA-TBA ... HOU-TEX ... BOS-TOR
+,2022-04-29,Apr,Fri,Regular Season,15,CIN-COL ... DET-LAN ... SEA-MIA ... CHN-MIL ... PHI-NYN ... SDN-PIT ... WAS-SFN ... ARI-SLN ... BOS-BAL ... ANA-CHA ... NYA-KCA ... CLE-OAK ... MIN-TBA ... ATL-TEX ... HOU-TOR
+,2022-04-30,Apr,Sat,Regular Season,15,CIN-COL ... DET-LAN ... SEA-MIA ... CHN-MIL ... PHI-NYN ... SDN-PIT ... WAS-SFN ... ARI-SLN ... BOS-BAL ... ANA-CHA ... NYA-KCA ... CLE-OAK ... MIN-TBA ... ATL-TEX ... HOU-TOR
+,2022-05-01,May,Sun,Regular Season,15,CIN-COL ... DET-LAN ... SEA-MIA ... CHN-MIL ... PHI-NYN ... SDN-PIT ... WAS-SFN ... ARI-SLN ... BOS-BAL ... ANA-CHA ... NYA-KCA ... CLE-OAK ... MIN-TBA ... ATL-TEX ... HOU-TOR
+,2022-05-02,May,Mon,Regular Season,8,ARI-MIA ... ATL-NYN ... KCA-SLN ... MIN-BAL ... ANA-CHA ... SEA-HOU ... TBA-OAK ... NYA-TOR
+,2022-05-03,May,Tue,Regular Season,14,CHA-CHN ... WAS-COL ... SFN-LAN ... ARI-MIA ... CIN-MIL ... ATL-NYN ... ATL-NYN ... TEX-PHI ... MIN-BAL ... ANA-BOS ... SEA-HOU ... SLN-KCA ... TBA-OAK ... NYA-TOR
+,2022-05-04,May,Wed,Regular Season,17,CHA-CHN ... WAS-COL ... SFN-LAN ... ARI-MIA ... CIN-MIL ... ATL-NYN ... TEX-PHI ... MIN-BAL ... ANA-BOS ... SDN-CLE ... SDN-CLE ... PIT-DET ... PIT-DET ... SEA-HOU ... SLN-KCA ... TBA-OAK ... NYA-TOR
+,2022-05-05,May,Thu,Regular Season,10,WAS-COL ... CIN-MIL ... NYN-PHI ... MIA-SDN ... SLN-SFN ... MIN-BAL ... ANA-BOS ... TOR-CLE ... DET-HOU ... TBA-SEA
+,2022-05-06,May,Fri,Regular Season,9,COL-ARI ... MIL-ATL ... MIA-SDN ... SLN-SFN ... WAS-ANA ... CHA-BOS ... DET-HOU ... OAK-MIN ... TBA-SEA
+,2022-05-07,May,Sat,Regular Season,15,COL-ARI ... MIL-ATL ... LAN-CHN ... LAN-CHN ... PIT-CIN ... PIT-CIN ... MIA-SDN ... SLN-SFN ... WAS-ANA ... CHA-BOS ... TOR-CLE ... TOR-CLE ... DET-HOU ... OAK-MIN ... TBA-SEA
+,2022-05-08,May,Sun,Regular Season,18,COL-ARI ... MIL-ATL ... LAN-CHN ... PIT-CIN ... NYN-PHI ... NYN-PHI ... MIA-SDN ... SLN-SFN ... WAS-ANA ... KCA-BAL ... KCA-BAL ... CHA-BOS ... TOR-CLE ... DET-HOU ... OAK-MIN ... TEX-NYA ... TEX-NYA ... TBA-SEA
+,2022-05-09,May,Mon,Regular Season,11,MIA-ARI ... MIL-CIN ... LAN-PIT ... CHN-SDN ... COL-SFN ... TBA-ANA ... KCA-BAL ... CLE-CHA ... OAK-DET ... TEX-NYA ... PHI-SEA
+,2022-05-10,May,Tue,Regular Season,16,MIA-ARI ... BOS-ATL ... MIL-CIN ... LAN-PIT ... CHN-SDN ... COL-SFN ... BAL-SLN ... NYN-WAS ... TBA-ANA ... CLE-CHA ... OAK-DET ... OAK-DET ... HOU-MIN ... TOR-NYA ... PHI-SEA ... KCA-TEX
+,2022-05-11,May,Wed,Regular Season,14,MIA-ARI ... BOS-ATL ... MIL-CIN ... LAN-PIT ... CHN-SDN ... COL-SFN ... BAL-SLN ... NYN-WAS ... TBA-ANA ... OAK-DET ... HOU-MIN ... TOR-NYA ... PHI-SEA ... KCA-TEX
+,2022-05-12,May,Thu,Regular Season,8,PHI-LAN ... CIN-PIT ... BAL-SLN ... NYN-WAS ... NYA-CHA ... OAK-DET ... HOU-MIN ... KCA-TEX
+,2022-05-13,May,Fri,Regular Season,15,CHN-ARI ... SDN-ATL ... KCA-COL ... PHI-LAN ... MIL-MIA ... SEA-NYN ... CIN-PIT ... SFN-SLN ... HOU-WAS ... NYA-CHA ... BAL-DET ... CLE-MIN ... ANA-OAK ... TOR-TBA ... BOS-TEX
+,2022-05-14,May,Sat,Regular Season,16,CHN-ARI ... SDN-ATL ... KCA-COL ... PHI-LAN ... MIL-MIA ... SEA-NYN ... CIN-PIT ... SFN-SLN ... HOU-WAS ... NYA-CHA ... BAL-DET ... CLE-MIN ... ANA-OAK ... ANA-OAK ... TOR-TBA ... BOS-TEX
+,2022-05-15,May,Sun,Regular Season,15,CHN-ARI ... SDN-ATL ... KCA-COL ... PHI-LAN ... MIL-MIA ... SEA-NYN ... CIN-PIT ... SFN-SLN ... HOU-WAS ... NYA-CHA ... BAL-DET ... CLE-MIN ... ANA-OAK ... TOR-TBA ... BOS-TEX
+,2022-05-16,May,Mon,Regular Season,12,PIT-CHN ... SFN-COL ... ARI-LAN ... WAS-MIA ... ATL-MIL ... NYA-BAL ... HOU-BOS ... CHA-KCA ... MIN-OAK ... DET-TBA ... ANA-TEX ... SEA-TOR
+,2022-05-17,May,Tue,Regular Season,18,PIT-CHN ... SFN-COL ... ARI-LAN ... ARI-LAN ... WAS-MIA ... ATL-MIL ... SLN-NYN ... SLN-NYN ... SDN-PHI ... NYA-BAL ... HOU-BOS ... CIN-CLE ... CHA-KCA ... CHA-KCA ... MIN-OAK ... DET-TBA ... ANA-TEX ... SEA-TOR
+,2022-05-18,May,Wed,Regular Season,14,PIT-CHN ... SFN-COL ... ARI-LAN ... WAS-MIA ... ATL-MIL ... SLN-NYN ... SDN-PHI ... NYA-BAL ... HOU-BOS ... CHA-KCA ... MIN-OAK ... DET-TBA ... ANA-TEX ... SEA-TOR
+,2022-05-19,May,Thu,Regular Season,8,ARI-CHN ... SLN-NYN ... SDN-PHI ... NYA-BAL ... SEA-BOS ... CIN-CLE ... TEX-HOU ... CHA-KCA
+,2022-05-20,May,Fri,Regular Season,13,ARI-CHN ... ATL-MIA ... WAS-MIL ... LAN-PHI ... SLN-PIT ... SDN-SFN ... OAK-ANA ... TBA-BAL ... SEA-BOS ... DET-CLE ... TEX-HOU ... MIN-KCA ... CIN-TOR
+,2022-05-21,May,Sat,Regular Season,15,ARI-CHN ... NYN-COL ... NYN-COL ... ATL-MIA ... WAS-MIL ... LAN-PHI ... SLN-PIT ... SDN-SFN ... OAK-ANA ... TBA-BAL ... SEA-BOS ... TEX-HOU ... MIN-KCA ... CHA-NYA ... CIN-TOR
+,2022-05-22,May,Sun,Regular Season,16,ARI-CHN ... NYN-COL ... ATL-MIA ... WAS-MIL ... LAN-PHI ... SLN-PIT ... SDN-SFN ... OAK-ANA ... TBA-BAL ... SEA-BOS ... DET-CLE ... TEX-HOU ... MIN-KCA ... CHA-NYA ... CHA-NYA ... CIN-TOR
+,2022-05-23,May,Mon,Regular Season,12,KCA-ARI ... PHI-ATL ... CHN-CIN ... COL-PIT ... MIL-SDN ... NYN-SFN ... TOR-SLN ... LAN-WAS ... CLE-HOU ... DET-MIN ... BAL-NYA ... OAK-SEA
+,2022-05-24,May,Tue,Regular Season,15,KCA-ARI ... PHI-ATL ... CHN-CIN ... COL-PIT ... MIL-SDN ... NYN-SFN ... TOR-SLN ... LAN-WAS ... TEX-ANA ... BOS-CHA ... CLE-HOU ... DET-MIN ... BAL-NYA ... OAK-SEA ... MIA-TBA
+,2022-05-25,May,Wed,Regular Season,13,PHI-ATL ... CHN-CIN ... COL-PIT ... MIL-SDN ... NYN-SFN ... LAN-WAS ... TEX-ANA ... BOS-CHA ... CLE-HOU ... DET-MIN ... BAL-NYA ... OAK-SEA ... MIA-TBA
+,2022-05-26,May,Thu,Regular Season,11,LAN-ARI ... PHI-ATL ... CHN-CIN ... MIL-SLN ... COL-WAS ... TOR-ANA ... BOS-CHA ... CLE-DET ... KCA-MIN ... TEX-OAK ... NYA-TBA
+,2022-05-27,May,Fri,Regular Season,12,LAN-ARI ... MIA-ATL ... SFN-CIN ... PHI-NYN ... PIT-SDN ... MIL-SLN ... TOR-ANA ... BAL-BOS ... KCA-MIN ... TEX-OAK ... HOU-SEA ... NYA-TBA
+,2022-05-28,May,Sat,Regular Season,17,LAN-ARI ... MIA-ATL ... SFN-CIN ... PHI-NYN ... PIT-SDN ... MIL-SLN ... COL-WAS ... COL-WAS ... TOR-ANA ... BAL-BOS ... BAL-BOS ... CHN-CHA ... CLE-DET ... KCA-MIN ... TEX-OAK ... HOU-SEA ... NYA-TBA
+,2022-05-29,May,Sun,Regular Season,15,LAN-ARI ... MIA-ATL ... SFN-CIN ... PHI-NYN ... PIT-SDN ... MIL-SLN ... COL-WAS ... TOR-ANA ... BAL-BOS ... CHN-CHA ... CLE-DET ... KCA-MIN ... TEX-OAK ... HOU-SEA ... NYA-TBA
+,2022-05-30,May,Mon,Regular Season,13,ATL-ARI ... MIL-CHN ... MIL-CHN ... MIA-COL ... PIT-LAN ... WAS-NYN ... SFN-PHI ... SDN-SLN ... BAL-BOS ... KCA-CLE ... MIN-DET ... HOU-OAK ... TBA-TEX
+,2022-05-31,May,Tue,Regular Season,15,ATL-ARI ... MIL-CHN ... PIT-LAN ... WAS-NYN ... SFN-PHI ... SDN-SLN ... SEA-BAL ... CIN-BOS ... KCA-CLE ... MIN-DET ... MIN-DET ... ANA-NYA ... HOU-OAK ... TBA-TEX ... CHA-TOR
+,2022-06-01,Jun,Wed,Regular Season,15,ATL-ARI ... MIL-CHN ... MIA-COL ... MIA-COL ... PIT-LAN ... WAS-NYN ... SFN-PHI ... SDN-SLN ... SEA-BAL ... CIN-BOS ... KCA-CLE ... MIN-DET ... HOU-OAK ... TBA-TEX ... CHA-TOR
+,2022-06-02,Jun,Thu,Regular Season,12,SLN-CHN ... WAS-CIN ... ATL-COL ... NYN-LAN ... SFN-MIA ... SDN-MIL ... SEA-BAL ... MIN-DET ... ANA-NYA ... ANA-NYA ... TBA-TEX ... CHA-TOR
+,2022-06-03,Jun,Fri,Regular Season,15,SLN-CHN ... WAS-CIN ... ATL-COL ... NYN-LAN ... SFN-MIA ... SDN-MIL ... ANA-PHI ... ARI-PIT ... CLE-BAL ... HOU-KCA ... DET-NYA ... BOS-OAK ... CHA-TBA ... SEA-TEX ... MIN-TOR
+,2022-06-04,Jun,Sat,Regular Season,16,SLN-CHN ... SLN-CHN ... WAS-CIN ... ATL-COL ... NYN-LAN ... SFN-MIA ... SDN-MIL ... ANA-PHI ... ARI-PIT ... CLE-BAL ... HOU-KCA ... DET-NYA ... BOS-OAK ... CHA-TBA ... SEA-TEX ... MIN-TOR
+,2022-06-05,Jun,Sun,Regular Season,15,SLN-CHN ... WAS-CIN ... ATL-COL ... NYN-LAN ... SFN-MIA ... SDN-MIL ... ANA-PHI ... ARI-PIT ... CLE-BAL ... HOU-KCA ... DET-NYA ... BOS-OAK ... CHA-TBA ... SEA-TEX ... MIN-TOR
+,2022-06-06,Jun,Mon,Regular Season,5,ARI-CIN ... NYN-SDN ... BOS-ANA ... SEA-HOU ... TOR-KCA
+,2022-06-07,Jun,Tue,Regular Season,16,OAK-ATL ... ARI-CIN ... WAS-MIA ... PHI-MIL ... DET-PIT ... NYN-SDN ... COL-SFN ... BOS-ANA ... CHN-BAL ... LAN-CHA ... TEX-CLE ... TEX-CLE ... SEA-HOU ... TOR-KCA ... NYA-MIN ... SLN-TBA
+,2022-06-08,Jun,Wed,Regular Season,14,OAK-ATL ... ARI-CIN ... WAS-MIA ... PHI-MIL ... DET-PIT ... NYN-SDN ... COL-SFN ... BOS-ANA ... LAN-CHA ... TEX-CLE ... SEA-HOU ... TOR-KCA ... NYA-MIN ... SLN-TBA
+,2022-06-09,Jun,Thu,Regular Season,11,PIT-ATL ... ARI-CIN ... WAS-MIA ... PHI-MIL ... COL-SFN ... BOS-ANA ... LAN-CHA ... OAK-CLE ... BAL-KCA ... NYA-MIN ... SLN-TBA
+,2022-06-10,Jun,Fri,Regular Season,15,PIT-ATL ... ARI-PHI ... COL-SDN ... LAN-SFN ... CIN-SLN ... MIL-WAS ... NYN-ANA ... TEX-CHA ... OAK-CLE ... TOR-DET ... MIA-HOU ... BAL-KCA ... TBA-MIN ... CHN-NYA ... BOS-SEA
+,2022-06-11,Jun,Sat,Regular Season,16,PIT-ATL ... ARI-PHI ... COL-SDN ... COL-SDN ... LAN-SFN ... CIN-SLN ... MIL-WAS ... NYN-ANA ... TEX-CHA ... OAK-CLE ... TOR-DET ... MIA-HOU ... BAL-KCA ... TBA-MIN ... CHN-NYA ... BOS-SEA
+,2022-06-12,Jun,Sun,Regular Season,15,PIT-ATL ... ARI-PHI ... COL-SDN ... LAN-SFN ... CIN-SLN ... MIL-WAS ... NYN-ANA ... TEX-CHA ... OAK-CLE ... TOR-DET ... MIA-HOU ... BAL-KCA ... TBA-MIN ... CHN-NYA ... BOS-SEA
+,2022-06-13,Jun,Mon,Regular Season,10,CIN-ARI ... SDN-CHN ... MIA-PHI ... KCA-SFN ... PIT-SLN ... ATL-WAS ... CHA-DET ... MIN-SEA ... HOU-TEX ... BAL-TOR
+,2022-06-14,Jun,Tue,Regular Season,16,CIN-ARI ... SDN-CHN ... CLE-COL ... ANA-LAN ... MIL-NYN ... MIA-PHI ... KCA-SFN ... PIT-SLN ... PIT-SLN ... ATL-WAS ... OAK-BOS ... CHA-DET ... TBA-NYA ... MIN-SEA ... HOU-TEX ... BAL-TOR
+,2022-06-15,Jun,Wed,Regular Season,15,CIN-ARI ... SDN-CHN ... CLE-COL ... ANA-LAN ... MIL-NYN ... MIA-PHI ... KCA-SFN ... PIT-SLN ... ATL-WAS ... OAK-BOS ... CHA-DET ... TBA-NYA ... MIN-SEA ... HOU-TEX ... BAL-TOR
+,2022-06-16,Jun,Thu,Regular Season,9,SDN-CHN ... CLE-COL ... MIL-NYN ... PHI-WAS ... OAK-BOS ... TEX-DET ... TBA-NYA ... ANA-SEA ... BAL-TOR
+,2022-06-17,Jun,Fri,Regular Season,16,MIN-ARI ... ATL-CHN ... MIL-CIN ... SDN-COL ... CLE-LAN ... MIA-NYN ... SFN-PIT ... PHI-WAS ... PHI-WAS ... TBA-BAL ... SLN-BOS ... TEX-DET ... CHA-HOU ... KCA-OAK ... ANA-SEA ... NYA-TOR
+,2022-06-18,Jun,Sat,Regular Season,16,MIN-ARI ... ATL-CHN ... MIL-CIN ... SDN-COL ... CLE-LAN ... MIA-NYN ... SFN-PIT ... PHI-WAS ... TBA-BAL ... SLN-BOS ... TEX-DET ... CHA-HOU ... KCA-OAK ... ANA-SEA ... ANA-SEA ... NYA-TOR
+,2022-06-19,Jun,Sun,Regular Season,15,MIN-ARI ... ATL-CHN ... MIL-CIN ... SDN-COL ... CLE-LAN ... MIA-NYN ... SFN-PIT ... PHI-WAS ... TBA-BAL ... SLN-BOS ... TEX-DET ... CHA-HOU ... KCA-OAK ... ANA-SEA ... NYA-TOR
+,2022-06-20,Jun,Mon,Regular Season,9,SFN-ATL ... SLN-MIL ... MIA-NYN ... CHN-PIT ... ARI-SDN ... KCA-ANA ... DET-BOS ... TOR-CHA ... NYA-TBA
+,2022-06-21,Jun,Tue,Regular Season,15,SFN-ATL ... LAN-CIN ... COL-MIA ... SLN-MIL ... CHN-PIT ... ARI-SDN ... KCA-ANA ... WAS-BAL ... DET-BOS ... TOR-CHA ... NYN-HOU ... CLE-MIN ... SEA-OAK ... NYA-TBA ... PHI-TEX
+,2022-06-22,Jun,Wed,Regular Season,15,SFN-ATL ... LAN-CIN ... COL-MIA ... SLN-MIL ... CHN-PIT ... ARI-SDN ... KCA-ANA ... WAS-BAL ... DET-BOS ... TOR-CHA ... NYN-HOU ... CLE-MIN ... SEA-OAK ... NYA-TBA ... PHI-TEX
+,2022-06-23,Jun,Thu,Regular Season,10,SFN-ATL ... LAN-CIN ... COL-MIA ... SLN-MIL ... CHN-PIT ... PHI-SDN ... BAL-CHA ... CLE-MIN ... HOU-NYA ... SEA-OAK
+,2022-06-24,Jun,Fri,Regular Season,15,DET-ARI ... LAN-ATL ... NYN-MIA ... TOR-MIL ... PHI-SDN ... CIN-SFN ... CHN-SLN ... SEA-ANA ... BAL-CHA ... BOS-CLE ... OAK-KCA ... COL-MIN ... HOU-NYA ... PIT-TBA ... WAS-TEX
+,2022-06-25,Jun,Sat,Regular Season,15,DET-ARI ... LAN-ATL ... NYN-MIA ... TOR-MIL ... PHI-SDN ... CIN-SFN ... CHN-SLN ... SEA-ANA ... BAL-CHA ... BOS-CLE ... OAK-KCA ... COL-MIN ... HOU-NYA ... PIT-TBA ... WAS-TEX
+,2022-06-26,Jun,Sun,Regular Season,15,DET-ARI ... LAN-ATL ... NYN-MIA ... TOR-MIL ... PHI-SDN ... CIN-SFN ... CHN-SLN ... SEA-ANA ... BAL-CHA ... BOS-CLE ... OAK-KCA ... COL-MIN ... HOU-NYA ... PIT-TBA ... WAS-TEX
+,2022-06-27,Jun,Mon,Regular Season,9,LAN-COL ... MIA-SLN ... PIT-WAS ... CHA-ANA ... MIN-CLE ... TEX-KCA ... OAK-NYA ... BAL-SEA ... BOS-TOR
+,2022-06-28,Jun,Tue,Regular Season,16,SDN-ARI ... CIN-CHN ... LAN-COL ... HOU-NYN ... ATL-PHI ... DET-SFN ... MIA-SLN ... PIT-WAS ... CHA-ANA ... MIN-CLE ... MIN-CLE ... TEX-KCA ... OAK-NYA ... BAL-SEA ... MIL-TBA ... BOS-TOR
+,2022-06-29,Jun,Wed,Regular Season,15,SDN-ARI ... CIN-CHN ... LAN-COL ... HOU-NYN ... ATL-PHI ... DET-SFN ... MIA-SLN ... PIT-WAS ... CHA-ANA ... MIN-CLE ... TEX-KCA ... OAK-NYA ... BAL-SEA ... MIL-TBA ... BOS-TOR
+,2022-06-30,Jun,Thu,Regular Season,8,CIN-CHN ... SDN-LAN ... ATL-PHI ... MIL-PIT ... MIN-CLE ... NYA-HOU ... OAK-SEA ... TBA-TOR
+,2022-07-01,Jul,Fri,Regular Season,14,BOS-CHN ... ATL-CIN ... ARI-COL ... SDN-LAN ... TEX-NYN ... SLN-PHI ... MIL-PIT ... CHA-SFN ... MIA-WAS ... KCA-DET ... ANA-HOU ... BAL-MIN ... OAK-SEA ... TBA-TOR
+,2022-07-02,Jul,Sat,Regular Season,17,BOS-CHN ... ATL-CIN ... ARI-COL ... SDN-LAN ... TEX-NYN ... SLN-PHI ... MIL-PIT ... CHA-SFN ... MIA-WAS ... NYA-CLE ... NYA-CLE ... KCA-DET ... ANA-HOU ... BAL-MIN ... OAK-SEA ... TBA-TOR ... TBA-TOR
+,2022-07-03,Jul,Sun,Regular Season,15,BOS-CHN ... ATL-CIN ... ARI-COL ... SDN-LAN ... TEX-NYN ... SLN-PHI ... MIL-PIT ... CHA-SFN ... MIA-WAS ... NYA-CLE ... KCA-DET ... ANA-HOU ... BAL-MIN ... OAK-SEA ... TBA-TOR
+,2022-07-04,Jul,Mon,Regular Season,14,SFN-ARI ... SLN-ATL ... NYN-CIN ... COL-LAN ... CHN-MIL ... SEA-SDN ... MIA-WAS ... TEX-BAL ... TBA-BOS ... MIN-CHA ... CLE-DET ... CLE-DET ... KCA-HOU ... TOR-OAK
+,2022-07-05,Jul,Tue,Regular Season,15,SFN-ARI ... SLN-ATL ... NYN-CIN ... COL-LAN ... ANA-MIA ... CHN-MIL ... WAS-PHI ... NYA-PIT ... SEA-SDN ... TEX-BAL ... TBA-BOS ... MIN-CHA ... CLE-DET ... KCA-HOU ... TOR-OAK
+,2022-07-06,Jul,Wed,Regular Season,14,SFN-ARI ... SLN-ATL ... NYN-CIN ... COL-LAN ... ANA-MIA ... CHN-MIL ... WAS-PHI ... NYA-PIT ... TEX-BAL ... TBA-BOS ... MIN-CHA ... CLE-DET ... KCA-HOU ... TOR-OAK
+,2022-07-07,Jul,Thu,Regular Season,13,COL-ARI ... SLN-ATL ... PIT-CIN ... PIT-CIN ... CHN-LAN ... MIA-NYN ... WAS-PHI ... SFN-SDN ... ANA-BAL ... NYA-BOS ... DET-CHA ... KCA-HOU ... TOR-SEA
+,2022-07-08,Jul,Fri,Regular Season,15,COL-ARI ... WAS-ATL ... TBA-CIN ... CHN-LAN ... PIT-MIL ... MIA-NYN ... SFN-SDN ... PHI-SLN ... ANA-BAL ... NYA-BOS ... DET-CHA ... CLE-KCA ... HOU-OAK ... TOR-SEA ... MIN-TEX
+,2022-07-09,Jul,Sat,Regular Season,15,COL-ARI ... WAS-ATL ... TBA-CIN ... CHN-LAN ... PIT-MIL ... MIA-NYN ... SFN-SDN ... PHI-SLN ... ANA-BAL ... NYA-BOS ... DET-CHA ... CLE-KCA ... HOU-OAK ... TOR-SEA ... MIN-TEX
+,2022-07-10,Jul,Sun,Regular Season,15,COL-ARI ... WAS-ATL ... TBA-CIN ... CHN-LAN ... PIT-MIL ... MIA-NYN ... SFN-SDN ... PHI-SLN ... ANA-BAL ... NYA-BOS ... DET-CHA ... CLE-KCA ... HOU-OAK ... TOR-SEA ... MIN-TEX
+,2022-07-11,Jul,Mon,Regular Season,10,NYN-ATL ... SDN-COL ... PIT-MIA ... ARI-SFN ... PHI-SLN ... CHA-CLE ... DET-KCA ... DET-KCA ... BOS-TBA ... OAK-TEX
+,2022-07-12,Jul,Tue,Regular Season,15,NYN-ATL ... BAL-CHN ... SDN-COL ... PIT-MIA ... ARI-SFN ... LAN-SLN ... HOU-ANA ... CHA-CLE ... CHA-CLE ... DET-KCA ... MIL-MIN ... CIN-NYA ... BOS-TBA ... OAK-TEX ... PHI-TOR
+,2022-07-13,Jul,Wed,Regular Season,16,NYN-ATL ... BAL-CHN ... SDN-COL ... PIT-MIA ... ARI-SFN ... LAN-SLN ... SEA-WAS ... SEA-WAS ... HOU-ANA ... CHA-CLE ... DET-KCA ... MIL-MIN ... CIN-NYA ... BOS-TBA ... OAK-TEX ... PHI-TOR
+,2022-07-14,Jul,Thu,Regular Season,13,NYN-CHN ... SDN-COL ... PIT-MIA ... MIL-SFN ... LAN-SLN ... ATL-WAS ... HOU-ANA ... DET-CLE ... CHA-MIN ... CIN-NYA ... BOS-TBA ... SEA-TEX ... KCA-TOR
+,2022-07-15,Jul,Fri,Regular Season,14,PIT-COL ... PHI-MIA ... ARI-SDN ... MIL-SFN ... CIN-SLN ... ATL-WAS ... LAN-ANA ... DET-CLE ... OAK-HOU ... CHA-MIN ... BOS-NYA ... BAL-TBA ... SEA-TEX ... KCA-TOR
+,2022-07-16,Jul,Sat,Regular Season,16,NYN-CHN ... NYN-CHN ... PIT-COL ... PHI-MIA ... ARI-SDN ... MIL-SFN ... CIN-SLN ... ATL-WAS ... LAN-ANA ... DET-CLE ... OAK-HOU ... CHA-MIN ... BOS-NYA ... BAL-TBA ... SEA-TEX ... KCA-TOR
+,2022-07-17,Jul,Sun,Regular Season,12,NYN-CHN ... PIT-COL ... PHI-MIA ... ARI-SDN ... MIL-SFN ... ATL-WAS ... OAK-HOU ... CHA-MIN ... BOS-NYA ... BAL-TBA ... SEA-TEX ... KCA-TOR
+,2022-07-19,Jul,Tue,All-Star Game,1,ALS-NLS
+,2022-07-21,Jul,Thu,Regular Season,6,SFN-LAN ... TEX-MIA ... NYA-HOU ... NYA-HOU ... DET-OAK ... DET-OAK
+,2022-07-22,Jul,Fri,Regular Season,14,WAS-ARI ... ANA-ATL ... SLN-CIN ... SFN-LAN ... COL-MIL ... SDN-NYN ... CHN-PHI ... MIA-PIT ... NYA-BAL ... TOR-BOS ... CLE-CHA ... TBA-KCA ... TEX-OAK ... HOU-SEA
+,2022-07-23,Jul,Sat,Regular Season,16,WAS-ARI ... ANA-ATL ... SLN-CIN ... SFN-LAN ... COL-MIL ... SDN-NYN ... CHN-PHI ... MIA-PIT ... NYA-BAL ... TOR-BOS ... CLE-CHA ... CLE-CHA ... MIN-DET ... TBA-KCA ... TEX-OAK ... HOU-SEA
+,2022-07-24,Jul,Sun,Regular Season,15,WAS-ARI ... ANA-ATL ... SLN-CIN ... SFN-LAN ... COL-MIL ... SDN-NYN ... CHN-PHI ... MIA-PIT ... NYA-BAL ... TOR-BOS ... CLE-CHA ... MIN-DET ... TBA-KCA ... TEX-OAK ... HOU-SEA
+,2022-07-25,Jul,Mon,Regular Season,12,SFN-ARI ... PIT-CHN ... MIA-CIN ... WAS-LAN ... COL-MIL ... ATL-PHI ... TBA-BAL ... CLE-BOS ... SDN-DET ... ANA-KCA ... HOU-OAK ... TEX-SEA
+,2022-07-26,Jul,Tue,Regular Season,15,SFN-ARI ... PIT-CHN ... MIA-CIN ... CHA-COL ... WAS-LAN ... MIN-MIL ... NYA-NYN ... ATL-PHI ... TBA-BAL ... CLE-BOS ... SDN-DET ... ANA-KCA ... HOU-OAK ... TEX-SEA ... SLN-TOR
+,2022-07-27,Jul,Wed,Regular Season,14,SFN-ARI ... MIA-CIN ... CHA-COL ... WAS-LAN ... MIN-MIL ... NYA-NYN ... ATL-PHI ... TBA-BAL ... CLE-BOS ... SDN-DET ... ANA-KCA ... HOU-OAK ... TEX-SEA ... SLN-TOR
+,2022-07-28,Jul,Thu,Regular Season,10,MIA-CIN ... LAN-COL ... PHI-PIT ... CHN-SFN ... TEX-ANA ... TBA-BAL ... CLE-BOS ... SEA-HOU ... KCA-NYA ... DET-TOR
+,2022-07-29,Jul,Fri,Regular Season,15,ARI-ATL ... BAL-CIN ... LAN-COL ... NYN-MIA ... PHI-PIT ... MIN-SDN ... CHN-SFN ... SLN-WAS ... TEX-ANA ... MIL-BOS ... OAK-CHA ... SEA-HOU ... KCA-NYA ... CLE-TBA ... DET-TOR
+,2022-07-30,Jul,Sat,Regular Season,15,ARI-ATL ... BAL-CIN ... LAN-COL ... NYN-MIA ... PHI-PIT ... MIN-SDN ... CHN-SFN ... SLN-WAS ... TEX-ANA ... MIL-BOS ... OAK-CHA ... SEA-HOU ... KCA-NYA ... CLE-TBA ... DET-TOR
+,2022-07-31,Jul,Sun,Regular Season,15,ARI-ATL ... BAL-CIN ... LAN-COL ... NYN-MIA ... PHI-PIT ... MIN-SDN ... CHN-SFN ... SLN-WAS ... TEX-ANA ... MIL-BOS ... OAK-CHA ... SEA-HOU ... KCA-NYA ... CLE-TBA ... DET-TOR
+,2022-08-01,Aug,Mon,Regular Season,10,CIN-MIA ... COL-SDN ... LAN-SFN ... NYN-WAS ... KCA-CHA ... ARI-CLE ... BOS-HOU ... DET-MIN ... SEA-NYA ... BAL-TEX
+,2022-08-02,Aug,Tue,Regular Season,16,PHI-ATL ... CIN-MIA ... MIL-PIT ... COL-SDN ... COL-SDN ... LAN-SFN ... CHN-SLN ... NYN-WAS ... OAK-ANA ... KCA-CHA ... ARI-CLE ... BOS-HOU ... DET-MIN ... SEA-NYA ... TOR-TBA ... BAL-TEX
+,2022-08-03,Aug,Wed,Regular Season,14,PHI-ATL ... CIN-MIA ... MIL-PIT ... COL-SDN ... LAN-SFN ... NYN-WAS ... OAK-ANA ... KCA-CHA ... ARI-CLE ... BOS-HOU ... DET-MIN ... SEA-NYA ... TOR-TBA ... BAL-TEX
+,2022-08-04,Aug,Thu,Regular Season,13,ATL-NYN ... WAS-PHI ... MIL-PIT ... COL-SDN ... LAN-SFN ... CHN-SLN ... CHN-SLN ... OAK-ANA ... HOU-CLE ... TBA-DET ... BOS-KCA ... TOR-MIN ... CHA-TEX
+,2022-08-05,Aug,Fri,Regular Season,14,COL-ARI ... MIA-CHN ... SDN-LAN ... CIN-MIL ... ATL-NYN ... WAS-PHI ... NYA-SLN ... PIT-BAL ... HOU-CLE ... TBA-DET ... BOS-KCA ... TOR-MIN ... ANA-SEA ... CHA-TEX
+,2022-08-06,Aug,Sat,Regular Season,17,COL-ARI ... MIA-CHN ... SDN-LAN ... CIN-MIL ... ATL-NYN ... ATL-NYN ... WAS-PHI ... NYA-SLN ... PIT-BAL ... HOU-CLE ... TBA-DET ... BOS-KCA ... TOR-MIN ... SFN-OAK ... ANA-SEA ... ANA-SEA ... CHA-TEX
+,2022-08-07,Aug,Sun,Regular Season,15,COL-ARI ... MIA-CHN ... SDN-LAN ... CIN-MIL ... ATL-NYN ... WAS-PHI ... NYA-SLN ... PIT-BAL ... HOU-CLE ... TBA-DET ... BOS-KCA ... TOR-MIN ... SFN-OAK ... ANA-SEA ... CHA-TEX
+,2022-08-08,Aug,Mon,Regular Season,7,PIT-ARI ... WAS-CHN ... CIN-NYN ... SFN-SDN ... TOR-BAL ... ANA-OAK ... NYA-SEA
+,2022-08-09,Aug,Tue,Regular Season,16,PIT-ARI ... WAS-CHN ... SLN-COL ... MIN-LAN ... TBA-MIL ... CIN-NYN ... MIA-PHI ... SFN-SDN ... TOR-BAL ... ATL-BOS ... CLE-DET ... TEX-HOU ... CHA-KCA ... CHA-KCA ... ANA-OAK ... NYA-SEA
+,2022-08-10,Aug,Wed,Regular Season,14,PIT-ARI ... WAS-CHN ... SLN-COL ... MIN-LAN ... TBA-MIL ... CIN-NYN ... MIA-PHI ... SFN-SDN ... ATL-BOS ... CLE-DET ... TEX-HOU ... CHA-KCA ... ANA-OAK ... NYA-SEA
+,2022-08-11,Aug,Thu,Regular Season,8,PIT-ARI ... CHN-CIN ... SLN-COL ... MIA-PHI ... BAL-BOS ... CLE-DET ... TEX-HOU ... CHA-KCA
+,2022-08-12,Aug,Fri,Regular Season,14,ARI-COL ... ATL-MIA ... PHI-NYN ... PIT-SFN ... MIL-SLN ... SDN-WAS ... MIN-ANA ... NYA-BOS ... DET-CHA ... OAK-HOU ... LAN-KCA ... BAL-TBA ... SEA-TEX ... CLE-TOR
+,2022-08-13,Aug,Sat,Regular Season,16,CHN-CIN ... ARI-COL ... ATL-MIA ... ATL-MIA ... PHI-NYN ... PIT-SFN ... MIL-SLN ... SDN-WAS ... MIN-ANA ... NYA-BOS ... DET-CHA ... OAK-HOU ... LAN-KCA ... BAL-TBA ... SEA-TEX ... CLE-TOR
+,2022-08-14,Aug,Sun,Regular Season,15,CHN-CIN ... ARI-COL ... ATL-MIA ... PHI-NYN ... PIT-SFN ... MIL-SLN ... SDN-WAS ... MIN-ANA ... NYA-BOS ... DET-CHA ... OAK-HOU ... LAN-KCA ... BAL-TBA ... SEA-TEX ... CLE-TOR
+,2022-08-15,Aug,Mon,Regular Season,14,NYN-ATL ... PHI-CIN ... SDN-MIA ... LAN-MIL ... ARI-SFN ... CHN-WAS ... SEA-ANA ... HOU-CHA ... DET-CLE ... DET-CLE ... KCA-MIN ... TBA-NYA ... OAK-TEX ... BAL-TOR
+,2022-08-16,Aug,Tue,Regular Season,15,NYN-ATL ... PHI-CIN ... SDN-MIA ... LAN-MIL ... BOS-PIT ... ARI-SFN ... COL-SLN ... CHN-WAS ... SEA-ANA ... HOU-CHA ... DET-CLE ... KCA-MIN ... TBA-NYA ... OAK-TEX ... BAL-TOR
+,2022-08-17,Aug,Wed,Regular Season,15,NYN-ATL ... PHI-CIN ... SDN-MIA ... LAN-MIL ... BOS-PIT ... ARI-SFN ... COL-SLN ... CHN-WAS ... SEA-ANA ... HOU-CHA ... DET-CLE ... KCA-MIN ... TBA-NYA ... OAK-TEX ... BAL-TOR
+,2022-08-18,Aug,Thu,Regular Season,11,NYN-ATL ... LAN-MIL ... BOS-PIT ... WAS-SDN ... ARI-SFN ... COL-SLN ... CHN-BAL ... HOU-CHA ... TOR-NYA ... KCA-TBA ... OAK-TEX
+,2022-08-19,Aug,Fri,Regular Season,15,SLN-ARI ... HOU-ATL ... MIL-CHN ... SFN-COL ... MIA-LAN ... NYN-PHI ... CIN-PIT ... WAS-SDN ... BOS-BAL ... CHA-CLE ... ANA-DET ... TEX-MIN ... TOR-NYA ... SEA-OAK ... KCA-TBA
+,2022-08-20,Aug,Sat,Regular Season,16,SLN-ARI ... HOU-ATL ... MIL-CHN ... SFN-COL ... MIA-LAN ... NYN-PHI ... NYN-PHI ... CIN-PIT ... WAS-SDN ... BOS-BAL ... CHA-CLE ... ANA-DET ... TEX-MIN ... TOR-NYA ... SEA-OAK ... KCA-TBA
+,2022-08-21,Aug,Sun,Regular Season,14,SLN-ARI ... HOU-ATL ... MIL-CHN ... SFN-COL ... MIA-LAN ... NYN-PHI ... CIN-PIT ... WAS-SDN ... BOS-BAL ... ANA-DET ... TEX-MIN ... TOR-NYA ... SEA-OAK ... KCA-TBA
+,2022-08-22,Aug,Mon,Regular Season,9,SLN-CHN ... MIL-LAN ... CIN-PHI ... ATL-PIT ... CHA-KCA ... TEX-MIN ... NYN-NYA ... MIA-OAK ... ANA-TBA
+,2022-08-23,Aug,Tue,Regular Season,16,SLN-CHN ... SLN-CHN ... TEX-COL ... MIL-LAN ... CIN-PHI ... ATL-PIT ... CLE-SDN ... CHA-BAL ... TOR-BOS ... SFN-DET ... MIN-HOU ... ARI-KCA ... NYN-NYA ... MIA-OAK ... WAS-SEA ... ANA-TBA
+,2022-08-24,Aug,Wed,Regular Season,14,SLN-CHN ... TEX-COL ... MIL-LAN ... CIN-PHI ... ATL-PIT ... CLE-SDN ... CHA-BAL ... TOR-BOS ... SFN-DET ... MIN-HOU ... ARI-KCA ... MIA-OAK ... WAS-SEA ... ANA-TBA
+,2022-08-25,Aug,Thu,Regular Season,9,SLN-CHN ... COL-NYN ... CIN-PHI ... CHA-BAL ... TOR-BOS ... MIN-HOU ... NYA-OAK ... CLE-SEA ... ANA-TBA
+,2022-08-26,Aug,Fri,Regular Season,15,LAN-MIA ... CHN-MIL ... COL-NYN ... PIT-PHI ... ATL-SLN ... CIN-WAS ... TBA-BOS ... ARI-CHA ... BAL-HOU ... SDN-KCA ... SFN-MIN ... NYA-OAK ... CLE-SEA ... DET-TEX ... ANA-TOR
+,2022-08-27,Aug,Sat,Regular Season,15,LAN-MIA ... CHN-MIL ... COL-NYN ... PIT-PHI ... ATL-SLN ... CIN-WAS ... TBA-BOS ... ARI-CHA ... BAL-HOU ... SDN-KCA ... SFN-MIN ... NYA-OAK ... CLE-SEA ... DET-TEX ... ANA-TOR
+,2022-08-28,Aug,Sun,Regular Season,15,LAN-MIA ... CHN-MIL ... COL-NYN ... PIT-PHI ... ATL-SLN ... CIN-WAS ... TBA-BOS ... ARI-CHA ... BAL-HOU ... SDN-KCA ... SFN-MIN ... NYA-OAK ... CLE-SEA ... DET-TEX ... ANA-TOR
+,2022-08-29,Aug,Mon,Regular Season,8,PHI-ARI ... SLN-CIN ... LAN-MIA ... PIT-MIL ... SDN-SFN ... NYA-ANA ... BOS-MIN ... CHN-TOR
+,2022-08-30,Aug,Tue,Regular Season,15,PHI-ARI ... COL-ATL ... SLN-CIN ... TBA-MIA ... PIT-MIL ... LAN-NYN ... SDN-SFN ... OAK-WAS ... NYA-ANA ... KCA-CHA ... BAL-CLE ... SEA-DET ... BOS-MIN ... HOU-TEX ... CHN-TOR
+,2022-08-31,Aug,Wed,Regular Season,15,PHI-ARI ... COL-ATL ... SLN-CIN ... TBA-MIA ... PIT-MIL ... LAN-NYN ... SDN-SFN ... OAK-WAS ... NYA-ANA ... KCA-CHA ... BAL-CLE ... SEA-DET ... BOS-MIN ... HOU-TEX ... CHN-TOR
+,2022-09-01,Sep,Thu,Regular Season,8,MIL-ARI ... COL-ATL ... LAN-NYN ... OAK-WAS ... TEX-BOS ... KCA-CHA ... BAL-CLE ... SEA-DET
+,2022-09-02,Sep,Fri,Regular Season,15,MIL-ARI ... MIA-ATL ... COL-CIN ... SDN-LAN ... WAS-NYN ... TOR-PIT ... PHI-SFN ... CHN-SLN ... HOU-ANA ... OAK-BAL ... TEX-BOS ... MIN-CHA ... SEA-CLE ... KCA-DET ... NYA-TBA
+,2022-09-03,Sep,Sat,Regular Season,14,MIL-ARI ... MIA-ATL ... SDN-LAN ... WAS-NYN ... TOR-PIT ... PHI-SFN ... CHN-SLN ... HOU-ANA ... OAK-BAL ... TEX-BOS ... MIN-CHA ... SEA-CLE ... KCA-DET ... NYA-TBA
+,2022-09-04,Sep,Sun,Regular Season,16,MIL-ARI ... MIA-ATL ... COL-CIN ... COL-CIN ... SDN-LAN ... WAS-NYN ... TOR-PIT ... PHI-SFN ... CHN-SLN ... HOU-ANA ... OAK-BAL ... TEX-BOS ... MIN-CHA ... SEA-CLE ... KCA-DET ... NYA-TBA
+,2022-09-05,Sep,Mon,Regular Season,12,MIL-COL ... SFN-LAN ... ARI-SDN ... WAS-SLN ... DET-ANA ... TOR-BAL ... TOR-BAL ... TEX-HOU ... CLE-KCA ... MIN-NYA ... CHA-SEA ... BOS-TBA
+,2022-09-06,Sep,Tue,Regular Season,14,CIN-CHN ... MIL-COL ... SFN-LAN ... MIA-PHI ... NYN-PIT ... ARI-SDN ... WAS-SLN ... DET-ANA ... TOR-BAL ... TEX-HOU ... CLE-KCA ... ATL-OAK ... CHA-SEA ... BOS-TBA
+,2022-09-07,Sep,Wed,Regular Season,17,CIN-CHN ... MIL-COL ... SFN-LAN ... MIA-PHI ... NYN-PIT ... NYN-PIT ... ARI-SDN ... WAS-SLN ... DET-ANA ... TOR-BAL ... TEX-HOU ... CLE-KCA ... MIN-NYA ... MIN-NYA ... ATL-OAK ... CHA-SEA ... BOS-TBA
+,2022-09-08,Sep,Thu,Regular Season,7,CIN-CHN ... SFN-MIL ... SFN-MIL ... MIA-PHI ... WAS-SLN ... MIN-NYA ... CHA-OAK
+,2022-09-09,Sep,Fri,Regular Season,15,SFN-CHN ... ARI-COL ... NYN-MIA ... CIN-MIL ... WAS-PHI ... SLN-PIT ... LAN-SDN ... BOS-BAL ... ANA-HOU ... DET-KCA ... CLE-MIN ... TBA-NYA ... CHA-OAK ... ATL-SEA ... TOR-TEX
+,2022-09-10,Sep,Sat,Regular Season,15,SFN-CHN ... ARI-COL ... NYN-MIA ... CIN-MIL ... WAS-PHI ... SLN-PIT ... LAN-SDN ... BOS-BAL ... ANA-HOU ... DET-KCA ... CLE-MIN ... TBA-NYA ... CHA-OAK ... ATL-SEA ... TOR-TEX
+,2022-09-11,Sep,Sun,Regular Season,15,SFN-CHN ... ARI-COL ... NYN-MIA ... CIN-MIL ... WAS-PHI ... SLN-PIT ... LAN-SDN ... BOS-BAL ... ANA-HOU ... DET-KCA ... CLE-MIN ... TBA-NYA ... CHA-OAK ... ATL-SEA ... TOR-TEX
+,2022-09-12,Sep,Mon,Regular Season,9,LAN-ARI ... PIT-CIN ... TEX-MIA ... TEX-MIA ... CHN-NYN ... ATL-SFN ... ANA-CLE ... HOU-DET ... TBA-TOR
+,2022-09-13,Sep,Tue,Regular Season,17,LAN-ARI ... PIT-CIN ... PIT-CIN ... PHI-MIA ... CHN-NYN ... ATL-SFN ... MIL-SLN ... BAL-WAS ... NYA-BOS ... COL-CHA ... ANA-CLE ... HOU-DET ... KCA-MIN ... SDN-SEA ... OAK-TEX ... TBA-TOR ... TBA-TOR
+,2022-09-14,Sep,Wed,Regular Season,15,LAN-ARI ... PIT-CIN ... PHI-MIA ... CHN-NYN ... ATL-SFN ... MIL-SLN ... BAL-WAS ... NYA-BOS ... COL-CHA ... ANA-CLE ... HOU-DET ... KCA-MIN ... SDN-SEA ... OAK-TEX ... TBA-TOR
+,2022-09-15,Sep,Thu,Regular Season,8,SDN-ARI ... PHI-MIA ... PIT-NYN ... CIN-SLN ... CHA-CLE ... OAK-HOU ... KCA-MIN ... TBA-TOR
+,2022-09-16,Sep,Fri,Regular Season,15,SDN-ARI ... PHI-ATL ... COL-CHN ... NYA-MIL ... PIT-NYN ... LAN-SFN ... CIN-SLN ... MIA-WAS ... SEA-ANA ... KCA-BOS ... MIN-CLE ... CHA-DET ... OAK-HOU ... TEX-TBA ... BAL-TOR
+,2022-09-17,Sep,Sat,Regular Season,17,SDN-ARI ... PHI-ATL ... COL-CHN ... NYA-MIL ... PIT-NYN ... LAN-SFN ... CIN-SLN ... CIN-SLN ... MIA-WAS ... SEA-ANA ... KCA-BOS ... MIN-CLE ... MIN-CLE ... CHA-DET ... OAK-HOU ... TEX-TBA ... BAL-TOR
+,2022-09-18,Sep,Sun,Regular Season,15,SDN-ARI ... PHI-ATL ... COL-CHN ... NYA-MIL ... PIT-NYN ... LAN-SFN ... CIN-SLN ... MIA-WAS ... SEA-ANA ... KCA-BOS ... MIN-CLE ... CHA-DET ... OAK-HOU ... TEX-TBA ... BAL-TOR
+,2022-09-19,Sep,Mon,Regular Season,9,WAS-ATL ... SFN-COL ... ARI-LAN ... CHN-MIA ... NYN-MIL ... SEA-ANA ... DET-BAL ... MIN-CLE ... HOU-TBA
+,2022-09-20,Sep,Tue,Regular Season,16,WAS-ATL ... BOS-CIN ... SFN-COL ... ARI-LAN ... ARI-LAN ... CHN-MIA ... NYN-MIL ... TOR-PHI ... SLN-SDN ... DET-BAL ... CLE-CHA ... MIN-KCA ... PIT-NYA ... SEA-OAK ... HOU-TBA ... ANA-TEX
+,2022-09-21,Sep,Wed,Regular Season,15,WAS-ATL ... BOS-CIN ... SFN-COL ... ARI-LAN ... CHN-MIA ... NYN-MIL ... TOR-PHI ... SLN-SDN ... DET-BAL ... CLE-CHA ... MIN-KCA ... PIT-NYA ... SEA-OAK ... HOU-TBA ... ANA-TEX
+,2022-09-22,Sep,Thu,Regular Season,13,MIL-CIN ... SFN-COL ... ARI-LAN ... ATL-PHI ... CHN-PIT ... SLN-SDN ... HOU-BAL ... CLE-CHA ... MIN-KCA ... BOS-NYA ... SEA-OAK ... TOR-TBA ... ANA-TEX
+,2022-09-23,Sep,Fri,Regular Season,15,SFN-ARI ... MIL-CIN ... SDN-COL ... SLN-LAN ... WAS-MIA ... ATL-PHI ... CHN-PIT ... HOU-BAL ... DET-CHA ... SEA-KCA ... ANA-MIN ... BOS-NYA ... NYN-OAK ... TOR-TBA ... CLE-TEX
+,2022-09-24,Sep,Sat,Regular Season,15,SFN-ARI ... MIL-CIN ... SDN-COL ... SLN-LAN ... WAS-MIA ... ATL-PHI ... CHN-PIT ... HOU-BAL ... DET-CHA ... SEA-KCA ... ANA-MIN ... BOS-NYA ... NYN-OAK ... TOR-TBA ... CLE-TEX
+,2022-09-25,Sep,Sun,Regular Season,15,SFN-ARI ... MIL-CIN ... SDN-COL ... SLN-LAN ... WAS-MIA ... ATL-PHI ... CHN-PIT ... HOU-BAL ... DET-CHA ... SEA-KCA ... ANA-MIN ... BOS-NYA ... NYN-OAK ... TOR-TBA ... CLE-TEX
+,2022-09-26,Sep,Mon,Regular Season,4,CIN-PIT ... ATL-WAS ... BAL-BOS ... NYA-TOR
+,2022-09-27,Sep,Tue,Regular Season,15,PHI-CHN ... SLN-MIL ... MIA-NYN ... CIN-PIT ... LAN-SDN ... COL-SFN ... ATL-WAS ... OAK-ANA ... BAL-BOS ... TBA-CLE ... KCA-DET ... ARI-HOU ... CHA-MIN ... TEX-SEA ... NYA-TOR
+,2022-09-28,Sep,Wed,Regular Season,15,PHI-CHN ... SLN-MIL ... MIA-NYN ... CIN-PIT ... LAN-SDN ... COL-SFN ... ATL-WAS ... OAK-ANA ... BAL-BOS ... TBA-CLE ... KCA-DET ... ARI-HOU ... CHA-MIN ... TEX-SEA ... NYA-TOR
+,2022-09-29,Sep,Thu,Regular Season,10,PHI-CHN ... MIA-MIL ... LAN-SDN ... COL-SFN ... OAK-ANA ... BAL-BOS ... TBA-CLE ... KCA-DET ... CHA-MIN ... TEX-SEA
+,2022-09-30,Sep,Fri,Regular Season,15,NYN-ATL ... CIN-CHN ... COL-LAN ... MIA-MIL ... CHA-SDN ... ARI-SFN ... PIT-SLN ... PHI-WAS ... TEX-ANA ... KCA-CLE ... MIN-DET ... TBA-HOU ... BAL-NYA ... OAK-SEA ... BOS-TOR
+,2022-10-01,Oct,Sat,Regular Season,16,NYN-ATL ... CIN-CHN ... COL-LAN ... MIA-MIL ... CHA-SDN ... ARI-SFN ... PIT-SLN ... PHI-WAS ... PHI-WAS ... TEX-ANA ... KCA-CLE ... MIN-DET ... TBA-HOU ... BAL-NYA ... OAK-SEA ... BOS-TOR
+,2022-10-02,Oct,Sun,Regular Season,15,NYN-ATL ... CIN-CHN ... COL-LAN ... MIA-MIL ... CHA-SDN ... ARI-SFN ... PIT-SLN ... PHI-WAS ... TEX-ANA ... KCA-CLE ... MIN-DET ... TBA-HOU ... BAL-NYA ... OAK-SEA ... BOS-TOR
+,2022-10-03,Oct,Mon,Regular Season,14,CHN-CIN ... COL-LAN ... ATL-MIA ... ARI-MIL ... SLN-PIT ... SFN-SDN ... TOR-BAL ... TBA-BOS ... MIN-CHA ... KCA-CLE ... PHI-HOU ... ANA-OAK ... DET-SEA ... NYA-TEX
+,2022-10-04,Oct,Tue,Regular Season,17,CHN-CIN ... COL-LAN ... ATL-MIA ... ARI-MIL ... WAS-NYN ... WAS-NYN ... SLN-PIT ... SFN-SDN ... TBA-BOS ... MIN-CHA ... KCA-CLE ... PHI-HOU ... ANA-OAK ... DET-SEA ... DET-SEA ... NYA-TEX ... NYA-TEX
+,2022-10-05,Oct,Wed,Regular Season,16,CHN-CIN ... COL-LAN ... ATL-MIA ... ARI-MIL ... WAS-NYN ... SLN-PIT ... SFN-SDN ... TOR-BAL ... TOR-BAL ... TBA-BOS ... MIN-CHA ... KCA-CLE ... PHI-HOU ... ANA-OAK ... DET-SEA ... NYA-TEX
+,2021-04-01,Apr,Thu,Regular Season,13,PIT-CHN ... SLN-CIN ... LAN-COL ... TBA-MIA ... MIN-MIL ... ATL-PHI ... ARI-SDN ... CHA-ANA ... CLE-DET ... TEX-KCA ... TOR-NYA ... HOU-OAK ... SFN-SEA
+,2021-04-02,Apr,Fri,Regular Season,7,LAN-COL ... TBA-MIA ... ARI-SDN ... CHA-ANA ... BAL-BOS ... HOU-OAK ... SFN-SEA
+,2021-04-03,Apr,Sat,Regular Season,14,PIT-CHN ... SLN-CIN ... LAN-COL ... TBA-MIA ... MIN-MIL ... ATL-PHI ... ARI-SDN ... CHA-ANA ... BAL-BOS ... CLE-DET ... TEX-KCA ... TOR-NYA ... HOU-OAK ... SFN-SEA
+,2021-04-04,Apr,Sun,Regular Season,12,PIT-CHN ... SLN-CIN ... LAN-COL ... MIN-MIL ... ATL-PHI ... ARI-SDN ... CHA-ANA ... BAL-BOS ... CLE-DET ... TEX-KCA ... TOR-NYA ... HOU-OAK
+,2021-04-05,Apr,Mon,Regular Season,13,MIL-CHN ... PIT-CIN ... SLN-MIA ... NYN-PHI ... SFN-SDN ... HOU-ANA ... TBA-BOS ... KCA-CLE ... MIN-DET ... BAL-NYA ... LAN-OAK ... CHA-SEA ... TOR-TEX
+,2021-04-06,Apr,Tue,Regular Season,14,MIL-CHN ... PIT-CIN ... ARI-COL ... SLN-MIA ... NYN-PHI ... SFN-SDN ... ATL-WAS ... HOU-ANA ... TBA-BOS ... MIN-DET ... BAL-NYA ... LAN-OAK ... CHA-SEA ... TOR-TEX
+,2021-04-07,Apr,Wed,Regular Season,15,MIL-CHN ... PIT-CIN ... ARI-COL ... SLN-MIA ... NYN-PHI ... SFN-SDN ... ATL-WAS ... ATL-WAS ... TBA-BOS ... KCA-CLE ... MIN-DET ... BAL-NYA ... LAN-OAK ... CHA-SEA ... TOR-TEX
+,2021-04-08,Apr,Thu,Regular Season,9,ARI-COL ... MIA-NYN ... CHN-PIT ... MIL-SLN ... BOS-BAL ... KCA-CHA ... OAK-HOU ... SEA-MIN ... ANA-TOR
+,2021-04-09,Apr,Fri,Regular Season,9,CIN-ARI ... PHI-ATL ... WAS-LAN ... COL-SFN ... DET-CLE ... OAK-HOU ... NYA-TBA ... SDN-TEX ... ANA-TOR
+,2021-04-10,Apr,Sat,Regular Season,14,CIN-ARI ... PHI-ATL ... WAS-LAN ... MIA-NYN ... CHN-PIT ... COL-SFN ... MIL-SLN ... BOS-BAL ... DET-CLE ... OAK-HOU ... SEA-MIN ... NYA-TBA ... SDN-TEX ... ANA-TOR
+,2021-04-11,Apr,Sun,Regular Season,13,CIN-ARI ... PHI-ATL ... WAS-LAN ... MIA-NYN ... CHN-PIT ... COL-SFN ... MIL-SLN ... BOS-BAL ... KCA-CHA ... DET-CLE ... SEA-MIN ... NYA-TBA ... SDN-TEX
+,2021-04-12,Apr,Mon,Regular Season,11,OAK-ARI ... MIA-ATL ... CHN-MIL ... SDN-PIT ... CIN-SFN ... WAS-SLN ... CLE-CHA ... DET-HOU ... ANA-KCA ... TEX-TBA ... NYA-TOR
+,2021-04-13,Apr,Tue,Regular Season,17,OAK-ARI ... MIA-ATL ... COL-LAN ... CHN-MIL ... PHI-NYN ... PHI-NYN ... SDN-PIT ... CIN-SFN ... WAS-SLN ... SEA-BAL ... SEA-BAL ... CLE-CHA ... DET-HOU ... ANA-KCA ... BOS-MIN ... TEX-TBA ... NYA-TOR
+,2021-04-14,Apr,Wed,Regular Season,14,MIA-ATL ... COL-LAN ... CHN-MIL ... PHI-NYN ... SDN-PIT ... CIN-SFN ... WAS-SLN ... CLE-CHA ... DET-HOU ... ANA-KCA ... BOS-MIN ... BOS-MIN ... TEX-TBA ... NYA-TOR
+,2021-04-15,Apr,Thu,Regular Season,11,MIA-ATL ... COL-LAN ... SDN-PIT ... ARI-WAS ... SEA-BAL ... SEA-BAL ... CLE-CHA ... TOR-KCA ... BOS-MIN ... DET-OAK ... TEX-TBA
+,2021-04-16,Apr,Fri,Regular Season,12,ATL-CHN ... CLE-CIN ... SFN-MIA ... PIT-MIL ... SLN-PHI ... LAN-SDN ... ARI-WAS ... MIN-ANA ... TBA-NYA ... DET-OAK ... HOU-SEA ... BAL-TEX
+,2021-04-17,Apr,Sat,Regular Season,16,ATL-CHN ... CLE-CIN ... NYN-COL ... NYN-COL ... SFN-MIA ... PIT-MIL ... SLN-PHI ... LAN-SDN ... ARI-WAS ... CHA-BOS ... TOR-KCA ... TOR-KCA ... TBA-NYA ... DET-OAK ... HOU-SEA ... BAL-TEX
+,2021-04-18,Apr,Sun,Regular Season,15,ATL-CHN ... CLE-CIN ... NYN-COL ... SFN-MIA ... PIT-MIL ... SLN-PHI ... LAN-SDN ... ARI-WAS ... CHA-BOS ... CHA-BOS ... TOR-KCA ... TBA-NYA ... DET-OAK ... HOU-SEA ... BAL-TEX
+,2021-04-19,Apr,Mon,Regular Season,7,SFN-PHI ... MIL-SDN ... SLN-WAS ... TEX-ANA ... CHA-BOS ... TBA-KCA ... LAN-SEA
+,2021-04-20,Apr,Tue,Regular Season,15,NYN-CHN ... ARI-CIN ... HOU-COL ... BAL-MIA ... SFN-PHI ... MIL-SDN ... SLN-WAS ... TEX-ANA ... TOR-BOS ... CHA-CLE ... TBA-KCA ... ATL-NYA ... MIN-OAK ... MIN-OAK ... LAN-SEA
+,2021-04-21,Apr,Wed,Regular Season,14,NYN-CHN ... ARI-CIN ... HOU-COL ... BAL-MIA ... SFN-PHI ... MIL-SDN ... SLN-WAS ... TEX-ANA ... TOR-BOS ... PIT-DET ... PIT-DET ... TBA-KCA ... ATL-NYA ... MIN-OAK
+,2021-04-22,Apr,Thu,Regular Season,8,NYN-CHN ... ARI-CIN ... SDN-LAN ... MIA-SFN ... SEA-BOS ... NYA-CLE ... PIT-DET ... ANA-HOU
+,2021-04-23,Apr,Fri,Regular Season,15,ARI-ATL ... MIL-CHN ... PHI-COL ... SDN-LAN ... WAS-NYN ... MIA-SFN ... CIN-SLN ... OAK-BAL ... SEA-BOS ... TEX-CHA ... NYA-CLE ... KCA-DET ... ANA-HOU ... PIT-MIN ... TOR-TBA
+,2021-04-24,Apr,Sat,Regular Season,14,MIL-CHN ... PHI-COL ... SDN-LAN ... WAS-NYN ... MIA-SFN ... CIN-SLN ... OAK-BAL ... SEA-BOS ... TEX-CHA ... NYA-CLE ... KCA-DET ... ANA-HOU ... PIT-MIN ... TOR-TBA
+,2021-04-25,Apr,Sun,Regular Season,16,ARI-ATL ... ARI-ATL ... MIL-CHN ... PHI-COL ... SDN-LAN ... WAS-NYN ... MIA-SFN ... CIN-SLN ... OAK-BAL ... SEA-BOS ... TEX-CHA ... NYA-CLE ... KCA-DET ... ANA-HOU ... PIT-MIN ... TOR-TBA
+,2021-04-26,Apr,Mon,Regular Season,11,CHN-ATL ... CIN-LAN ... MIA-MIL ... COL-SFN ... PHI-SLN ... NYA-BAL ... MIN-CLE ... KCA-DET ... SEA-HOU ... OAK-TBA ... ANA-TEX
+,2021-04-27,Apr,Tue,Regular Season,15,SDN-ARI ... CHN-ATL ... CIN-LAN ... MIA-MIL ... BOS-NYN ... KCA-PIT ... COL-SFN ... PHI-SLN ... NYA-BAL ... DET-CHA ... MIN-CLE ... SEA-HOU ... OAK-TBA ... ANA-TEX ... WAS-TOR
+,2021-04-28,Apr,Wed,Regular Season,14,SDN-ARI ... CHN-ATL ... CIN-LAN ... MIA-MIL ... BOS-NYN ... KCA-PIT ... COL-SFN ... PHI-SLN ... NYA-BAL ... MIN-CLE ... SEA-HOU ... OAK-TBA ... ANA-TEX ... WAS-TOR
+,2021-04-29,Apr,Thu,Regular Season,10,COL-ARI ... CHN-ATL ... LAN-MIL ... PHI-SLN ... NYA-BAL ... DET-CHA ... DET-CHA ... SEA-HOU ... OAK-TBA ... BOS-TEX
+,2021-04-30,Apr,Fri,Regular Season,15,COL-ARI ... CHN-CIN ... LAN-MIL ... NYN-PHI ... SLN-PIT ... SFN-SDN ... MIA-WAS ... CLE-CHA ... KCA-MIN ... DET-NYA ... BAL-OAK ... ANA-SEA ... HOU-TBA ... BOS-TEX ... ATL-TOR
+,2021-05-01,May,Sat,Regular Season,15,COL-ARI ... CHN-CIN ... LAN-MIL ... NYN-PHI ... SLN-PIT ... SFN-SDN ... MIA-WAS ... CLE-CHA ... KCA-MIN ... DET-NYA ... BAL-OAK ... ANA-SEA ... HOU-TBA ... BOS-TEX ... ATL-TOR
+,2021-05-02,May,Sun,Regular Season,15,COL-ARI ... CHN-CIN ... LAN-MIL ... NYN-PHI ... SLN-PIT ... SFN-SDN ... MIA-WAS ... CLE-CHA ... KCA-MIN ... DET-NYA ... BAL-OAK ... ANA-SEA ... HOU-TBA ... BOS-TEX ... ATL-TOR
+,2021-05-03,May,Mon,Regular Season,8,MIL-PHI ... PIT-SDN ... NYN-SLN ... TBA-ANA ... CLE-KCA ... TEX-MIN ... TOR-OAK ... BAL-SEA
+,2021-05-04,May,Tue,Regular Season,16,LAN-CHN ... LAN-CHN ... CHA-CIN ... SFN-COL ... SFN-COL ... ARI-MIA ... MIL-PHI ... PIT-SDN ... ATL-WAS ... TBA-ANA ... DET-BOS ... CLE-KCA ... TEX-MIN ... HOU-NYA ... TOR-OAK ... BAL-SEA
+,2021-05-05,May,Wed,Regular Season,16,LAN-CHN ... CHA-CIN ... SFN-COL ... ARI-MIA ... MIL-PHI ... PIT-SDN ... NYN-SLN ... NYN-SLN ... ATL-WAS ... TBA-ANA ... DET-BOS ... CLE-KCA ... TEX-MIN ... HOU-NYA ... TOR-OAK ... BAL-SEA
+,2021-05-06,May,Thu,Regular Season,10,ARI-MIA ... MIL-PHI ... NYN-SLN ... ATL-WAS ... TBA-ANA ... DET-BOS ... CLE-KCA ... TEX-MIN ... HOU-NYA ... TOR-OAK
+,2021-05-07,May,Fri,Regular Season,15,PHI-ATL ... PIT-CHN ... MIL-MIA ... ARI-NYN ... SDN-SFN ... COL-SLN ... LAN-ANA ... BOS-BAL ... CIN-CLE ... MIN-DET ... TOR-HOU ... CHA-KCA ... WAS-NYA ... TBA-OAK ... SEA-TEX
+,2021-05-08,May,Sat,Regular Season,15,PHI-ATL ... PIT-CHN ... MIL-MIA ... ARI-NYN ... SDN-SFN ... COL-SLN ... LAN-ANA ... BOS-BAL ... CIN-CLE ... MIN-DET ... TOR-HOU ... CHA-KCA ... WAS-NYA ... TBA-OAK ... SEA-TEX
+,2021-05-09,May,Sun,Regular Season,13,PHI-ATL ... PIT-CHN ... MIL-MIA ... ARI-NYN ... SDN-SFN ... COL-SLN ... LAN-ANA ... BOS-BAL ... TOR-HOU ... CHA-KCA ... WAS-NYA ... TBA-OAK ... SEA-TEX
+,2021-05-10,May,Mon,Regular Season,5,MIA-ARI ... CIN-PIT ... TEX-SFN ... BOS-BAL ... ANA-HOU
+,2021-05-11,May,Tue,Regular Season,15,MIA-ARI ... TOR-ATL ... SDN-COL ... SEA-LAN ... SLN-MIL ... BAL-NYN ... CIN-PIT ... TEX-SFN ... PHI-WAS ... OAK-BOS ... MIN-CHA ... CHN-CLE ... KCA-DET ... ANA-HOU ... NYA-TBA
+,2021-05-12,May,Wed,Regular Season,15,MIA-ARI ... TOR-ATL ... SDN-COL ... SDN-COL ... SEA-LAN ... SLN-MIL ... BAL-NYN ... CIN-PIT ... PHI-WAS ... OAK-BOS ... MIN-CHA ... CHN-CLE ... KCA-DET ... ANA-HOU ... NYA-TBA
+,2021-05-13,May,Thu,Regular Season,12,MIA-ARI ... TOR-ATL ... CIN-COL ... SLN-MIL ... SFN-PIT ... PHI-WAS ... OAK-BOS ... MIN-CHA ... KCA-DET ... TEX-HOU ... CLE-SEA ... NYA-TBA
+,2021-05-14,May,Fri,Regular Season,16,WAS-ARI ... CIN-COL ... MIA-LAN ... ATL-MIL ... SFN-PIT ... SLN-SDN ... NYA-BAL ... ANA-BOS ... KCA-CHA ... KCA-CHA ... CHN-DET ... TEX-HOU ... OAK-MIN ... CLE-SEA ... NYN-TBA ... PHI-TOR
+,2021-05-15,May,Sat,Regular Season,15,WAS-ARI ... CIN-COL ... MIA-LAN ... ATL-MIL ... SFN-PIT ... SLN-SDN ... NYA-BAL ... ANA-BOS ... KCA-CHA ... CHN-DET ... TEX-HOU ... OAK-MIN ... CLE-SEA ... NYN-TBA ... PHI-TOR
+,2021-05-16,May,Sun,Regular Season,15,WAS-ARI ... CIN-COL ... MIA-LAN ... ATL-MIL ... SFN-PIT ... SLN-SDN ... NYA-BAL ... ANA-BOS ... KCA-CHA ... CHN-DET ... TEX-HOU ... OAK-MIN ... CLE-SEA ... NYN-TBA ... PHI-TOR
+,2021-05-17,May,Mon,Regular Season,9,NYN-ATL ... WAS-CHN ... SFN-CIN ... ARI-LAN ... COL-SDN ... CLE-ANA ... CHA-MIN ... DET-SEA ... NYA-TEX
+,2021-05-18,May,Tue,Regular Season,15,NYN-ATL ... WAS-CHN ... SFN-CIN ... ARI-LAN ... MIA-PHI ... COL-SDN ... PIT-SLN ... CLE-ANA ... TBA-BAL ... MIL-KCA ... CHA-MIN ... HOU-OAK ... DET-SEA ... NYA-TEX ... BOS-TOR
+,2021-05-19,May,Wed,Regular Season,15,NYN-ATL ... WAS-CHN ... SFN-CIN ... ARI-LAN ... MIA-PHI ... COL-SDN ... PIT-SLN ... CLE-ANA ... TBA-BAL ... MIL-KCA ... CHA-MIN ... HOU-OAK ... DET-SEA ... NYA-TEX ... BOS-TOR
+,2021-05-20,May,Thu,Regular Season,11,PIT-ATL ... WAS-CHN ... SFN-CIN ... ARI-LAN ... MIA-PHI ... MIN-ANA ... MIN-ANA ... TBA-BAL ... HOU-OAK ... NYA-TEX ... BOS-TOR
+,2021-05-21,May,Fri,Regular Season,15,PIT-ATL ... MIL-CIN ... ARI-COL ... NYN-MIA ... BOS-PHI ... SEA-SDN ... LAN-SFN ... CHN-SLN ... BAL-WAS ... OAK-ANA ... MIN-CLE ... DET-KCA ... CHA-NYA ... HOU-TEX ... TBA-TOR
+,2021-05-22,May,Sat,Regular Season,15,PIT-ATL ... MIL-CIN ... ARI-COL ... NYN-MIA ... BOS-PHI ... SEA-SDN ... LAN-SFN ... CHN-SLN ... BAL-WAS ... OAK-ANA ... MIN-CLE ... DET-KCA ... CHA-NYA ... HOU-TEX ... TBA-TOR
+,2021-05-23,May,Sun,Regular Season,15,PIT-ATL ... MIL-CIN ... ARI-COL ... NYN-MIA ... BOS-PHI ... SEA-SDN ... LAN-SFN ... CHN-SLN ... BAL-WAS ... OAK-ANA ... MIN-CLE ... DET-KCA ... CHA-NYA ... HOU-TEX ... TBA-TOR
+,2021-05-24,May,Mon,Regular Season,8,PHI-MIA ... SDN-MIL ... COL-NYN ... SLN-CHA ... CLE-DET ... BAL-MIN ... SEA-OAK ... TBA-TOR
+,2021-05-25,May,Tue,Regular Season,15,SFN-ARI ... PHI-MIA ... SDN-MIL ... COL-NYN ... CHN-PIT ... CIN-WAS ... TEX-ANA ... ATL-BOS ... SLN-CHA ... CLE-DET ... LAN-HOU ... BAL-MIN ... TOR-NYA ... SEA-OAK ... KCA-TBA
+,2021-05-26,May,Wed,Regular Season,13,SFN-ARI ... PHI-MIA ... SDN-MIL ... CHN-PIT ... CIN-WAS ... TEX-ANA ... ATL-BOS ... SLN-CHA ... CLE-DET ... LAN-HOU ... BAL-MIN ... SEA-OAK ... KCA-TBA
+,2021-05-27,May,Thu,Regular Season,15,SLN-ARI ... SFN-LAN ... PHI-MIA ... SDN-MIL ... COL-NYN ... COL-NYN ... CHN-PIT ... CIN-WAS ... BAL-CHA ... CLE-DET ... TOR-NYA ... TOR-NYA ... ANA-OAK ... TEX-SEA ... KCA-TBA
+,2021-05-28,May,Fri,Regular Season,10,SLN-ARI ... CIN-CHN ... SFN-LAN ... MIA-BOS ... TOR-CLE ... NYA-DET ... SDN-HOU ... KCA-MIN ... ANA-OAK ... TEX-SEA
+,2021-05-29,May,Sat,Regular Season,17,SLN-ARI ... CIN-CHN ... SFN-LAN ... ATL-NYN ... COL-PIT ... COL-PIT ... MIL-WAS ... MIL-WAS ... MIA-BOS ... BAL-CHA ... BAL-CHA ... NYA-DET ... SDN-HOU ... KCA-MIN ... ANA-OAK ... TEX-SEA ... PHI-TBA
+,2021-05-30,May,Sun,Regular Season,14,SLN-ARI ... CIN-CHN ... SFN-LAN ... COL-PIT ... MIL-WAS ... BAL-CHA ... TOR-CLE ... TOR-CLE ... NYA-DET ... SDN-HOU ... KCA-MIN ... ANA-OAK ... TEX-SEA ... PHI-TBA
+,2021-05-31,May,Mon,Regular Season,14,NYN-ARI ... WAS-ATL ... SDN-CHN ... PHI-CIN ... SLN-LAN ... DET-MIL ... ANA-SFN ... MIN-BAL ... CHA-CLE ... CHA-CLE ... BOS-HOU ... PIT-KCA ... TBA-NYA ... OAK-SEA
+,2021-06-01,Jun,Tue,Regular Season,15,NYN-ARI ... WAS-ATL ... SDN-CHN ... PHI-CIN ... TEX-COL ... SLN-LAN ... DET-MIL ... ANA-SFN ... MIN-BAL ... CHA-CLE ... BOS-HOU ... PIT-KCA ... TBA-NYA ... OAK-SEA ... MIA-TOR
+,2021-06-02,Jun,Wed,Regular Season,10,NYN-ARI ... WAS-ATL ... SDN-CHN ... TEX-COL ... SLN-LAN ... MIN-BAL ... BOS-HOU ... TBA-NYA ... OAK-SEA ... MIA-TOR
+,2021-06-03,Jun,Thu,Regular Season,12,WAS-ATL ... TEX-COL ... ARI-MIL ... MIA-PIT ... NYN-SDN ... CHN-SFN ... CIN-SLN ... SEA-ANA ... DET-CHA ... BOS-HOU ... MIN-KCA ... TBA-NYA
+,2021-06-04,Jun,Fri,Regular Season,15,LAN-ATL ... OAK-COL ... ARI-MIL ... WAS-PHI ... MIA-PIT ... NYN-SDN ... CHN-SFN ... CIN-SLN ... SEA-ANA ... CLE-BAL ... DET-CHA ... MIN-KCA ... BOS-NYA ... TBA-TEX ... HOU-TOR
+,2021-06-05,Jun,Sat,Regular Season,15,LAN-ATL ... OAK-COL ... ARI-MIL ... WAS-PHI ... MIA-PIT ... NYN-SDN ... CHN-SFN ... CIN-SLN ... SEA-ANA ... CLE-BAL ... DET-CHA ... MIN-KCA ... BOS-NYA ... TBA-TEX ... HOU-TOR
+,2021-06-06,Jun,Sun,Regular Season,15,LAN-ATL ... OAK-COL ... ARI-MIL ... WAS-PHI ... MIA-PIT ... NYN-SDN ... CHN-SFN ... CIN-SLN ... SEA-ANA ... CLE-BAL ... DET-CHA ... MIN-KCA ... BOS-NYA ... TBA-TEX ... HOU-TOR
+,2021-06-07,Jun,Mon,Regular Season,3,CHN-SDN ... KCA-ANA ... MIA-BOS
+,2021-06-08,Jun,Tue,Regular Season,15,MIL-CIN ... COL-MIA ... ATL-PHI ... LAN-PIT ... CHN-SDN ... CLE-SLN ... KCA-ANA ... NYN-BAL ... HOU-BOS ... TOR-CHA ... SEA-DET ... NYA-MIN ... ARI-OAK ... WAS-TBA ... SFN-TEX
+,2021-06-09,Jun,Wed,Regular Season,15,MIL-CIN ... COL-MIA ... ATL-PHI ... LAN-PIT ... CHN-SDN ... CLE-SLN ... KCA-ANA ... NYN-BAL ... HOU-BOS ... TOR-CHA ... SEA-DET ... NYA-MIN ... ARI-OAK ... WAS-TBA ... SFN-TEX
+,2021-06-10,Jun,Thu,Regular Season,9,MIL-CIN ... COL-MIA ... ATL-PHI ... LAN-PIT ... HOU-BOS ... TOR-CHA ... SEA-DET ... NYA-MIN ... KCA-OAK
+,2021-06-11,Jun,Fri,Regular Season,14,ANA-ARI ... SLN-CHN ... COL-CIN ... TEX-LAN ... ATL-MIA ... PIT-MIL ... SDN-NYN ... SFN-WAS ... TOR-BOS ... SEA-CLE ... CHA-DET ... HOU-MIN ... KCA-OAK ... BAL-TBA
+,2021-06-12,Jun,Sat,Regular Season,16,ANA-ARI ... SLN-CHN ... COL-CIN ... TEX-LAN ... ATL-MIA ... PIT-MIL ... SDN-NYN ... NYA-PHI ... SFN-WAS ... SFN-WAS ... TOR-BOS ... SEA-CLE ... CHA-DET ... HOU-MIN ... KCA-OAK ... BAL-TBA
+,2021-06-13,Jun,Sun,Regular Season,15,ANA-ARI ... SLN-CHN ... COL-CIN ... TEX-LAN ... ATL-MIA ... PIT-MIL ... SDN-NYN ... NYA-PHI ... SFN-WAS ... TOR-BOS ... SEA-CLE ... CHA-DET ... HOU-MIN ... KCA-OAK ... BAL-TBA
+,2021-06-14,Jun,Mon,Regular Season,13,SDN-COL ... PHI-LAN ... CIN-MIL ... CHN-NYN ... ARI-SFN ... MIA-SLN ... PIT-WAS ... TOR-BOS ... TBA-CHA ... BAL-CLE ... DET-KCA ... ANA-OAK ... MIN-SEA
+,2021-06-15,Jun,Tue,Regular Season,15,BOS-ATL ... SDN-COL ... PHI-LAN ... CIN-MIL ... CHN-NYN ... ARI-SFN ... MIA-SLN ... PIT-WAS ... TBA-CHA ... BAL-CLE ... TEX-HOU ... DET-KCA ... ANA-OAK ... MIN-SEA ... NYA-TOR
+,2021-06-16,Jun,Wed,Regular Season,15,BOS-ATL ... SDN-COL ... PHI-LAN ... CIN-MIL ... CHN-NYN ... ARI-SFN ... MIA-SLN ... PIT-WAS ... TBA-CHA ... BAL-CLE ... TEX-HOU ... DET-KCA ... ANA-OAK ... MIN-SEA ... NYA-TOR
+,2021-06-17,Jun,Thu,Regular Season,10,SLN-ATL ... MIL-COL ... CHN-NYN ... CIN-SDN ... ARI-SFN ... DET-ANA ... BAL-CLE ... CHA-HOU ... TBA-SEA ... NYA-TOR
+,2021-06-18,Jun,Fri,Regular Season,15,LAN-ARI ... SLN-ATL ... MIA-CHN ... MIL-COL ... CLE-PIT ... CIN-SDN ... PHI-SFN ... NYN-WAS ... DET-ANA ... TOR-BAL ... CHA-HOU ... BOS-KCA ... OAK-NYA ... TBA-SEA ... MIN-TEX
+,2021-06-19,Jun,Sat,Regular Season,15,LAN-ARI ... MIA-CHN ... MIL-COL ... CLE-PIT ... CIN-SDN ... PHI-SFN ... NYN-WAS ... NYN-WAS ... DET-ANA ... TOR-BAL ... CHA-HOU ... BOS-KCA ... OAK-NYA ... TBA-SEA ... MIN-TEX
+,2021-06-20,Jun,Sun,Regular Season,16,LAN-ARI ... SLN-ATL ... SLN-ATL ... MIA-CHN ... MIL-COL ... CLE-PIT ... CIN-SDN ... PHI-SFN ... NYN-WAS ... DET-ANA ... TOR-BAL ... CHA-HOU ... BOS-KCA ... OAK-NYA ... TBA-SEA ... MIN-TEX
+,2021-06-21,Jun,Mon,Regular Season,8,MIL-ARI ... CLE-CHN ... ATL-NYN ... ATL-NYN ... LAN-SDN ... HOU-BAL ... CIN-MIN ... OAK-TEX
+,2021-06-22,Jun,Tue,Regular Season,15,MIL-ARI ... CLE-CHN ... TOR-MIA ... ATL-NYN ... WAS-PHI ... CHA-PIT ... LAN-SDN ... SFN-ANA ... HOU-BAL ... SLN-DET ... CIN-MIN ... KCA-NYA ... COL-SEA ... BOS-TBA ... OAK-TEX
+,2021-06-23,Jun,Wed,Regular Season,13,MIL-ARI ... TOR-MIA ... ATL-NYN ... WAS-PHI ... CHA-PIT ... LAN-SDN ... SFN-ANA ... HOU-BAL ... SLN-DET ... KCA-NYA ... COL-SEA ... BOS-TBA ... OAK-TEX
+,2021-06-24,Jun,Thu,Regular Season,10,ATL-CIN ... CHN-LAN ... WAS-MIA ... PIT-SLN ... HOU-DET ... CLE-MIN ... KCA-NYA ... BOS-TBA ... OAK-TEX ... BAL-TOR
+,2021-06-25,Jun,Fri,Regular Season,15,ATL-CIN ... CHN-LAN ... WAS-MIA ... COL-MIL ... PHI-NYN ... PHI-NYN ... ARI-SDN ... OAK-SFN ... PIT-SLN ... NYA-BOS ... SEA-CHA ... CLE-MIN ... ANA-TBA ... KCA-TEX ... BAL-TOR
+,2021-06-26,Jun,Sat,Regular Season,15,ATL-CIN ... CHN-LAN ... WAS-MIA ... COL-MIL ... PHI-NYN ... ARI-SDN ... OAK-SFN ... PIT-SLN ... NYA-BOS ... SEA-CHA ... HOU-DET ... HOU-DET ... ANA-TBA ... KCA-TEX ... BAL-TOR
+,2021-06-27,Jun,Sun,Regular Season,15,ATL-CIN ... CHN-LAN ... WAS-MIA ... COL-MIL ... PHI-NYN ... ARI-SDN ... OAK-SFN ... PIT-SLN ... NYA-BOS ... SEA-CHA ... HOU-DET ... CLE-MIN ... ANA-TBA ... KCA-TEX ... BAL-TOR
+,2021-06-28,Jun,Mon,Regular Season,10,PHI-CIN ... PIT-COL ... SFN-LAN ... CHN-MIL ... ARI-SLN ... NYN-WAS ... KCA-BOS ... DET-CLE ... BAL-HOU ... ANA-NYA
+,2021-06-29,Jun,Tue,Regular Season,14,NYN-ATL ... SDN-CIN ... PIT-COL ... SFN-LAN ... CHN-MIL ... MIA-PHI ... ARI-SLN ... TBA-WAS ... KCA-BOS ... MIN-CHA ... BAL-HOU ... ANA-NYA ... TEX-OAK ... SEA-TOR
+,2021-06-30,Jun,Wed,Regular Season,15,NYN-ATL ... SDN-CIN ... PIT-COL ... CHN-MIL ... MIA-PHI ... ARI-SLN ... TBA-WAS ... KCA-BOS ... MIN-CHA ... DET-CLE ... DET-CLE ... BAL-HOU ... ANA-NYA ... TEX-OAK ... SEA-TOR
+,2021-07-01,Jul,Thu,Regular Season,11,SFN-ARI ... NYN-ATL ... SDN-CIN ... SLN-COL ... MIL-PIT ... LAN-WAS ... KCA-BOS ... MIN-CHA ... HOU-CLE ... TEX-OAK ... SEA-TOR
+,2021-07-02,Jul,Fri,Regular Season,14,SFN-ARI ... MIA-ATL ... CHN-CIN ... SLN-COL ... SDN-PHI ... MIL-PIT ... LAN-WAS ... BAL-ANA ... HOU-CLE ... CHA-DET ... MIN-KCA ... BOS-OAK ... TEX-SEA ... TBA-TOR
+,2021-07-03,Jul,Sat,Regular Season,15,SFN-ARI ... MIA-ATL ... CHN-CIN ... SLN-COL ... SDN-PHI ... MIL-PIT ... LAN-WAS ... BAL-ANA ... HOU-CLE ... CHA-DET ... MIN-KCA ... NYN-NYA ... BOS-OAK ... TEX-SEA ... TBA-TOR
+,2021-07-04,Jul,Sun,Regular Season,16,SFN-ARI ... MIA-ATL ... CHN-CIN ... SLN-COL ... SDN-PHI ... MIL-PIT ... LAN-WAS ... BAL-ANA ... HOU-CLE ... CHA-DET ... MIN-KCA ... NYN-NYA ... NYN-NYA ... BOS-OAK ... TEX-SEA ... TBA-TOR
+,2021-07-05,Jul,Mon,Regular Season,11,PHI-CHN ... LAN-MIA ... MIL-NYN ... ATL-PIT ... WAS-SDN ... SLN-SFN ... BOS-ANA ... CIN-KCA ... CHA-MIN ... CLE-TBA ... DET-TEX
+,2021-07-06,Jul,Tue,Regular Season,13,COL-ARI ... PHI-CHN ... LAN-MIA ... ATL-PIT ... WAS-SDN ... SLN-SFN ... BOS-ANA ... TOR-BAL ... OAK-HOU ... CIN-KCA ... CHA-MIN ... NYA-SEA ... DET-TEX
+,2021-07-07,Jul,Wed,Regular Season,17,COL-ARI ... PHI-CHN ... LAN-MIA ... MIL-NYN ... MIL-NYN ... ATL-PIT ... WAS-SDN ... SLN-SFN ... BOS-ANA ... TOR-BAL ... OAK-HOU ... CIN-KCA ... CHA-MIN ... NYA-SEA ... CLE-TBA ... CLE-TBA ... DET-TEX
+,2021-07-08,Jul,Thu,Regular Season,9,COL-ARI ... PHI-CHN ... LAN-MIA ... CIN-MIL ... WAS-SDN ... KCA-CLE ... OAK-HOU ... DET-MIN ... NYA-SEA
+,2021-07-09,Jul,Fri,Regular Season,15,SLN-CHN ... ARI-LAN ... ATL-MIA ... CIN-MIL ... PIT-NYN ... COL-SDN ... WAS-SFN ... CHA-BAL ... PHI-BOS ... KCA-CLE ... NYA-HOU ... DET-MIN ... ANA-SEA ... TOR-TBA ... OAK-TEX
+,2021-07-10,Jul,Sat,Regular Season,16,SLN-CHN ... ARI-LAN ... ATL-MIA ... CIN-MIL ... PIT-NYN ... PIT-NYN ... COL-SDN ... WAS-SFN ... CHA-BAL ... PHI-BOS ... KCA-CLE ... NYA-HOU ... DET-MIN ... ANA-SEA ... TOR-TBA ... OAK-TEX
+,2021-07-11,Jul,Sun,Regular Season,13,ARI-LAN ... ATL-MIA ... CIN-MIL ... PIT-NYN ... COL-SDN ... WAS-SFN ... CHA-BAL ... PHI-BOS ... NYA-HOU ... DET-MIN ... ANA-SEA ... TOR-TBA ... OAK-TEX
+,2021-07-13,Jul,Tue,All-Star Game,1,ALS-NLS
+,2021-07-16,Jul,Fri,Regular Season,15,CHN-ARI ... TBA-ATL ... MIL-CIN ... LAN-COL ... MIA-PHI ... MIA-PHI ... NYN-PIT ... SFN-SLN ... SDN-WAS ... SEA-ANA ... HOU-CHA ... BAL-KCA ... BOS-NYA ... CLE-OAK ... TEX-TOR
+,2021-07-17,Jul,Sat,Regular Season,15,CHN-ARI ... TBA-ATL ... MIL-CIN ... LAN-COL ... MIA-PHI ... NYN-PIT ... SFN-SLN ... SDN-WAS ... SEA-ANA ... HOU-CHA ... MIN-DET ... MIN-DET ... BAL-KCA ... BOS-NYA ... CLE-OAK
+,2021-07-18,Jul,Sun,Regular Season,16,CHN-ARI ... TBA-ATL ... MIL-CIN ... LAN-COL ... MIA-PHI ... NYN-PIT ... SFN-SLN ... SDN-WAS ... SEA-ANA ... HOU-CHA ... MIN-DET ... BAL-KCA ... BOS-NYA ... CLE-OAK ... TEX-TOR ... TEX-TOR
+,2021-07-19,Jul,Mon,Regular Season,12,PIT-ARI ... NYN-CIN ... SFN-LAN ... CHN-SLN ... MIA-WAS ... MIN-CHA ... MIN-CHA ... TEX-DET ... CLE-HOU ... ANA-OAK ... BAL-TBA ... BOS-TOR
+,2021-07-20,Jul,Tue,Regular Season,14,PIT-ARI ... SDN-ATL ... NYN-CIN ... SEA-COL ... SFN-LAN ... KCA-MIL ... CHN-SLN ... MIA-WAS ... MIN-CHA ... TEX-DET ... CLE-HOU ... PHI-NYA ... ANA-OAK ... BAL-TBA
+,2021-07-21,Jul,Wed,Regular Season,15,PIT-ARI ... SDN-ATL ... SDN-ATL ... NYN-CIN ... SEA-COL ... SFN-LAN ... KCA-MIL ... CHN-SLN ... MIA-WAS ... MIN-CHA ... TEX-DET ... CLE-HOU ... PHI-NYA ... BAL-TBA ... BOS-TOR
+,2021-07-22,Jul,Thu,Regular Season,9,SFN-LAN ... SDN-MIA ... ATL-PHI ... CHN-SLN ... NYA-BOS ... TBA-CLE ... TEX-DET ... ANA-MIN ... OAK-SEA
+,2021-07-23,Jul,Fri,Regular Season,15,ARI-CHN ... SLN-CIN ... COL-LAN ... SDN-MIA ... CHA-MIL ... TOR-NYN ... ATL-PHI ... PIT-SFN ... WAS-BAL ... NYA-BOS ... TBA-CLE ... TEX-HOU ... DET-KCA ... ANA-MIN ... OAK-SEA
+,2021-07-24,Jul,Sat,Regular Season,15,ARI-CHN ... SLN-CIN ... COL-LAN ... SDN-MIA ... CHA-MIL ... TOR-NYN ... ATL-PHI ... PIT-SFN ... WAS-BAL ... NYA-BOS ... TBA-CLE ... TEX-HOU ... DET-KCA ... ANA-MIN ... OAK-SEA
+,2021-07-25,Jul,Sun,Regular Season,15,ARI-CHN ... SLN-CIN ... COL-LAN ... SDN-MIA ... CHA-MIL ... TOR-NYN ... ATL-PHI ... PIT-SFN ... WAS-BAL ... NYA-BOS ... TBA-CLE ... TEX-HOU ... DET-KCA ... ANA-MIN ... OAK-SEA
+,2021-07-26,Jul,Mon,Regular Season,9,CIN-CHN ... ATL-NYN ... ATL-NYN ... WAS-PHI ... COL-ANA ... TOR-BOS ... CHA-KCA ... DET-MIN ... HOU-SEA
+,2021-07-27,Jul,Tue,Regular Season,14,CIN-CHN ... ATL-NYN ... WAS-PHI ... MIL-PIT ... OAK-SDN ... LAN-SFN ... COL-ANA ... MIA-BAL ... SLN-CLE ... CHA-KCA ... DET-MIN ... HOU-SEA ... NYA-TBA ... ARI-TEX
+,2021-07-28,Jul,Wed,Regular Season,15,CIN-CHN ... ATL-NYN ... MIL-PIT ... OAK-SDN ... LAN-SFN ... COL-ANA ... MIA-BAL ... TOR-BOS ... TOR-BOS ... SLN-CLE ... CHA-KCA ... DET-MIN ... HOU-SEA ... NYA-TBA ... ARI-TEX
+,2021-07-29,Jul,Thu,Regular Season,12,CIN-CHN ... ATL-NYN ... WAS-PHI ... WAS-PHI ... MIL-PIT ... COL-SDN ... LAN-SFN ... OAK-ANA ... TOR-BOS ... BAL-DET ... CHA-KCA ... NYA-TBA
+,2021-07-30,Jul,Fri,Regular Season,15,LAN-ARI ... MIL-ATL ... NYA-MIA ... CIN-NYN ... PHI-PIT ... COL-SDN ... HOU-SFN ... MIN-SLN ... CHN-WAS ... OAK-ANA ... CLE-CHA ... BAL-DET ... BOS-TBA ... SEA-TEX ... KCA-TOR
+,2021-07-31,Jul,Sat,Regular Season,15,LAN-ARI ... MIL-ATL ... NYA-MIA ... CIN-NYN ... PHI-PIT ... COL-SDN ... HOU-SFN ... MIN-SLN ... CHN-WAS ... OAK-ANA ... CLE-CHA ... BAL-DET ... BOS-TBA ... SEA-TEX ... KCA-TOR
+,2021-08-01,Aug,Sun,Regular Season,15,LAN-ARI ... MIL-ATL ... NYA-MIA ... CIN-NYN ... PHI-PIT ... COL-SDN ... HOU-SFN ... MIN-SLN ... CHN-WAS ... OAK-ANA ... CLE-CHA ... BAL-DET ... BOS-TBA ... SEA-TEX ... KCA-TOR
+,2021-08-02,Aug,Mon,Regular Season,8,SFN-ARI ... NYN-MIA ... PIT-MIL ... PHI-WAS ... BAL-NYA ... SEA-TBA ... ANA-TEX ... CLE-TOR
+,2021-08-03,Aug,Tue,Regular Season,15,SFN-ARI ... MIN-CIN ... CHN-COL ... HOU-LAN ... NYN-MIA ... PIT-MIL ... ATL-SLN ... PHI-WAS ... KCA-CHA ... BOS-DET ... BAL-NYA ... SDN-OAK ... SEA-TBA ... ANA-TEX ... CLE-TOR
+,2021-08-04,Aug,Wed,Regular Season,15,SFN-ARI ... MIN-CIN ... CHN-COL ... HOU-LAN ... NYN-MIA ... PIT-MIL ... ATL-SLN ... PHI-WAS ... KCA-CHA ... BOS-DET ... BAL-NYA ... SDN-OAK ... SEA-TBA ... ANA-TEX ... CLE-TOR
+,2021-08-05,Aug,Thu,Regular Season,12,SFN-ARI ... PIT-CIN ... CHN-COL ... NYN-MIA ... ATL-SLN ... PHI-WAS ... KCA-CHA ... BOS-DET ... MIN-HOU ... SEA-NYA ... ANA-TEX ... CLE-TOR
+,2021-08-06,Aug,Fri,Regular Season,15,WAS-ATL ... CHA-CHN ... PIT-CIN ... MIA-COL ... ANA-LAN ... SFN-MIL ... NYN-PHI ... ARI-SDN ... KCA-SLN ... TBA-BAL ... DET-CLE ... MIN-HOU ... SEA-NYA ... TEX-OAK ... BOS-TOR
+,2021-08-07,Aug,Sat,Regular Season,16,WAS-ATL ... CHA-CHN ... PIT-CIN ... MIA-COL ... ANA-LAN ... SFN-MIL ... NYN-PHI ... ARI-SDN ... KCA-SLN ... TBA-BAL ... DET-CLE ... MIN-HOU ... SEA-NYA ... TEX-OAK ... BOS-TOR ... BOS-TOR
+,2021-08-08,Aug,Sun,Regular Season,15,WAS-ATL ... CHA-CHN ... PIT-CIN ... MIA-COL ... ANA-LAN ... SFN-MIL ... NYN-PHI ... ARI-SDN ... KCA-SLN ... TBA-BAL ... DET-CLE ... MIN-HOU ... SEA-NYA ... TEX-OAK ... BOS-TOR
+,2021-08-09,Aug,Mon,Regular Season,4,MIA-SDN ... CIN-CLE ... NYA-KCA ... CHA-MIN
+,2021-08-10,Aug,Tue,Regular Season,17,CIN-ATL ... MIL-CHN ... MIL-CHN ... WAS-NYN ... LAN-PHI ... SLN-PIT ... MIA-SDN ... ARI-SFN ... ANA-TOR ... DET-BAL ... TBA-BOS ... OAK-CLE ... COL-HOU ... NYA-KCA ... CHA-MIN ... TEX-SEA ... TOR-ANA
+,2021-08-11,Aug,Wed,Regular Season,14,CIN-ATL ... MIL-CHN ... LAN-PHI ... SLN-PIT ... MIA-SDN ... ARI-SFN ... TOR-ANA ... DET-BAL ... TBA-BOS ... OAK-CLE ... COL-HOU ... NYA-KCA ... CHA-MIN ... TEX-SEA
+,2021-08-12,Aug,Thu,Regular Season,14,SDN-ARI ... CIN-ATL ... MIL-CHN ... WAS-NYN ... WAS-NYN ... LAN-PHI ... SLN-PIT ... COL-SFN ... TOR-ANA ... DET-BAL ... TBA-BOS ... NYA-CHA ... OAK-CLE ... TEX-SEA
+,2021-08-13,Aug,Fri,Regular Season,13,SDN-ARI ... CHN-MIA ... LAN-NYN ... CIN-PHI ... COL-SFN ... ATL-WAS ... HOU-ANA ... BAL-BOS ... CLE-DET ... SLN-KCA ... TBA-MIN ... TOR-SEA ... OAK-TEX
+,2021-08-14,Aug,Sat,Regular Season,16,SDN-ARI ... CHN-MIA ... LAN-NYN ... CIN-PHI ... MIL-PIT ... MIL-PIT ... COL-SFN ... ATL-WAS ... HOU-ANA ... BAL-BOS ... NYA-CHA ... CLE-DET ... SLN-KCA ... TBA-MIN ... TOR-SEA ... OAK-TEX
+,2021-08-15,Aug,Sun,Regular Season,15,SDN-ARI ... CHN-MIA ... LAN-NYN ... CIN-PHI ... MIL-PIT ... COL-SFN ... ATL-WAS ... HOU-ANA ... BAL-BOS ... NYA-CHA ... CLE-DET ... SLN-KCA ... TBA-MIN ... TOR-SEA ... OAK-TEX
+,2021-08-16,Aug,Mon,Regular Season,10,CHN-CIN ... SDN-COL ... PIT-LAN ... ATL-MIA ... NYN-SFN ... OAK-CHA ... HOU-KCA ... CLE-MIN ... ANA-NYA ... BAL-TBA
+,2021-08-17,Aug,Tue,Regular Season,16,PHI-ARI ... CHN-CIN ... SDN-COL ... PIT-LAN ... ATL-MIA ... NYN-SFN ... MIL-SLN ... TOR-WAS ... OAK-CHA ... ANA-DET ... HOU-KCA ... CLE-MIN ... BOS-NYA ... BOS-NYA ... BAL-TBA ... SEA-TEX
+,2021-08-18,Aug,Wed,Regular Season,15,PHI-ARI ... CHN-CIN ... SDN-COL ... PIT-LAN ... ATL-MIA ... NYN-SFN ... MIL-SLN ... TOR-WAS ... OAK-CHA ... ANA-DET ... HOU-KCA ... CLE-MIN ... BOS-NYA ... BAL-TBA ... SEA-TEX
+,2021-08-19,Aug,Thu,Regular Season,10,PHI-ARI ... MIA-CIN ... NYN-LAN ... MIL-SLN ... OAK-CHA ... ANA-DET ... HOU-KCA ... MIN-NYA ... BAL-TBA ... SEA-TEX
+,2021-08-20,Aug,Fri,Regular Season,15,KCA-CHN ... MIA-CIN ... ARI-COL ... NYN-LAN ... WAS-MIL ... PHI-SDN ... PIT-SLN ... ATL-BAL ... TEX-BOS ... ANA-CLE ... SEA-HOU ... MIN-NYA ... SFN-OAK ... CHA-TBA ... DET-TOR
+,2021-08-21,Aug,Sat,Regular Season,15,KCA-CHN ... MIA-CIN ... ARI-COL ... NYN-LAN ... WAS-MIL ... PHI-SDN ... PIT-SLN ... ATL-BAL ... TEX-BOS ... ANA-CLE ... SEA-HOU ... MIN-NYA ... SFN-OAK ... CHA-TBA ... DET-TOR
+,2021-08-22,Aug,Sun,Regular Season,13,KCA-CHN ... MIA-CIN ... ARI-COL ... NYN-LAN ... WAS-MIL ... PHI-SDN ... PIT-SLN ... ATL-BAL ... ANA-CLE ... SEA-HOU ... SFN-OAK ... CHA-TBA ... DET-TOR
+,2021-08-23,Aug,Mon,Regular Season,7,NYA-ATL ... COL-CHN ... ARI-PIT ... TEX-BOS ... KCA-HOU ... SEA-OAK ... CHA-TOR
+,2021-08-24,Aug,Tue,Regular Season,14,NYA-ATL ... WAS-MIA ... CIN-MIL ... SFN-NYN ... TBA-PHI ... ARI-PIT ... LAN-SDN ... DET-SLN ... ANA-BAL ... MIN-BOS ... TEX-CLE ... KCA-HOU ... SEA-OAK ... CHA-TOR
+,2021-08-25,Aug,Wed,Regular Season,14,COL-CHN ... COL-CHN ... WAS-MIA ... CIN-MIL ... SFN-NYN ... TBA-PHI ... ARI-PIT ... LAN-SDN ... DET-SLN ... ANA-BAL ... MIN-BOS ... TEX-CLE ... KCA-HOU ... CHA-TOR
+,2021-08-26,Aug,Thu,Regular Season,12,WAS-MIA ... CIN-MIL ... SFN-NYN ... ARI-PHI ... SLN-PIT ... LAN-SDN ... ANA-BAL ... MIN-BOS ... TEX-CLE ... NYA-OAK ... KCA-SEA ... CHA-TOR
+,2021-08-27,Aug,Fri,Regular Season,15,SFN-ATL ... COL-LAN ... CIN-MIA ... WAS-NYN ... ARI-PHI ... SLN-PIT ... SDN-ANA ... TBA-BAL ... CHN-CHA ... BOS-CLE ... TOR-DET ... MIL-MIN ... NYA-OAK ... KCA-SEA ... HOU-TEX
+,2021-08-28,Aug,Sat,Regular Season,15,SFN-ATL ... COL-LAN ... CIN-MIA ... WAS-NYN ... ARI-PHI ... SLN-PIT ... SDN-ANA ... TBA-BAL ... CHN-CHA ... BOS-CLE ... TOR-DET ... MIL-MIN ... NYA-OAK ... KCA-SEA ... HOU-TEX
+,2021-08-29,Aug,Sun,Regular Season,14,SFN-ATL ... COL-LAN ... CIN-MIA ... WAS-NYN ... ARI-PHI ... SLN-PIT ... TBA-BAL ... CHN-CHA ... BOS-CLE ... TOR-DET ... MIL-MIN ... NYA-OAK ... KCA-SEA ... HOU-TEX
+,2021-08-30,Aug,Mon,Regular Season,11,SDN-ARI ... SLN-CIN ... ATL-LAN ... MIL-SFN ... PHI-WAS ... NYA-ANA ... MIN-DET ... HOU-SEA ... BOS-TBA ... COL-TEX ... BAL-TOR
+,2021-08-31,Aug,Tue,Regular Season,14,SDN-ARI ... ATL-LAN ... MIA-NYN ... MIL-SFN ... PHI-WAS ... NYA-ANA ... PIT-CHA ... OAK-DET ... CLE-KCA ... CHN-MIN ... HOU-SEA ... BOS-TBA ... COL-TEX ... BAL-TOR
+,2021-09-01,Sep,Wed,Regular Season,14,SDN-ARI ... SLN-CIN ... SLN-CIN ... ATL-LAN ... MIL-SFN ... NYA-ANA ... PIT-CHA ... OAK-DET ... CLE-KCA ... CHN-MIN ... HOU-SEA ... BOS-TBA ... COL-TEX ... BAL-TOR
+,2021-09-02,Sep,Thu,Regular Season,8,PIT-CHN ... ATL-COL ... MIA-NYN ... MIL-SFN ... PHI-WAS ... OAK-DET ... CLE-KCA ... BOS-TBA
+,2021-09-03,Sep,Fri,Regular Season,15,SEA-ARI ... PIT-CHN ... DET-CIN ... ATL-COL ... PHI-MIA ... SLN-MIL ... HOU-SDN ... LAN-SFN ... NYN-WAS ... TEX-ANA ... CLE-BOS ... CHA-KCA ... BAL-NYA ... MIN-TBA ... OAK-TOR
+,2021-09-04,Sep,Sat,Regular Season,16,SEA-ARI ... PIT-CHN ... DET-CIN ... ATL-COL ... PHI-MIA ... SLN-MIL ... HOU-SDN ... LAN-SFN ... NYN-WAS ... NYN-WAS ... TEX-ANA ... CLE-BOS ... CHA-KCA ... BAL-NYA ... MIN-TBA ... OAK-TOR
+,2021-09-05,Sep,Sun,Regular Season,15,SEA-ARI ... PIT-CHN ... DET-CIN ... ATL-COL ... PHI-MIA ... SLN-MIL ... HOU-SDN ... LAN-SFN ... NYN-WAS ... TEX-ANA ... CLE-BOS ... CHA-KCA ... BAL-NYA ... MIN-TBA ... OAK-TOR
+,2021-09-06,Sep,Mon,Regular Season,12,CIN-CHN ... SFN-COL ... PHI-MIL ... DET-PIT ... LAN-SLN ... NYN-WAS ... TEX-ANA ... KCA-BAL ... TBA-BOS ... MIN-CLE ... SEA-HOU ... TOR-NYA
+,2021-09-07,Sep,Tue,Regular Season,15,TEX-ARI ... WAS-ATL ... CIN-CHN ... SFN-COL ... NYN-MIA ... PHI-MIL ... DET-PIT ... ANA-SDN ... LAN-SLN ... KCA-BAL ... TBA-BOS ... MIN-CLE ... SEA-HOU ... TOR-NYA ... CHA-OAK
+,2021-09-08,Sep,Wed,Regular Season,15,TEX-ARI ... WAS-ATL ... CIN-CHN ... SFN-COL ... NYN-MIA ... PHI-MIL ... DET-PIT ... ANA-SDN ... LAN-SLN ... KCA-BAL ... TBA-BOS ... MIN-CLE ... SEA-HOU ... TOR-NYA ... CHA-OAK
+,2021-09-09,Sep,Thu,Regular Season,8,WAS-ATL ... NYN-MIA ... COL-PHI ... LAN-SLN ... KCA-BAL ... MIN-CLE ... TOR-NYA ... CHA-OAK
+,2021-09-10,Sep,Fri,Regular Season,15,MIA-ATL ... SFN-CHN ... SDN-LAN ... NYA-NYN ... COL-PHI ... WAS-PIT ... CIN-SLN ... TOR-BAL ... BOS-CHA ... MIL-CLE ... TBA-DET ... ANA-HOU ... KCA-MIN ... TEX-OAK ... ARI-SEA
+,2021-09-11,Sep,Sat,Regular Season,16,MIA-ATL ... SFN-CHN ... SDN-LAN ... NYA-NYN ... COL-PHI ... WAS-PIT ... CIN-SLN ... TOR-BAL ... TOR-BAL ... BOS-CHA ... MIL-CLE ... TBA-DET ... ANA-HOU ... KCA-MIN ... TEX-OAK ... ARI-SEA
+,2021-09-12,Sep,Sun,Regular Season,15,MIA-ATL ... SFN-CHN ... SDN-LAN ... NYA-NYN ... COL-PHI ... WAS-PIT ... CIN-SLN ... TOR-BAL ... BOS-CHA ... MIL-CLE ... TBA-DET ... ANA-HOU ... KCA-MIN ... TEX-OAK ... ARI-SEA
+,2021-09-13,Sep,Mon,Regular Season,8,ARI-LAN ... SLN-NYN ... SDN-SFN ... MIA-WAS ... MIN-NYA ... BOS-SEA ... HOU-TEX ... TBA-TOR
+,2021-09-14,Sep,Tue,Regular Season,16,COL-ATL ... ARI-LAN ... SLN-NYN ... CHN-PHI ... CIN-PIT ... SDN-SFN ... MIA-WAS ... NYA-BAL ... ANA-CHA ... MIL-DET ... OAK-KCA ... CLE-MIN ... CLE-MIN ... BOS-SEA ... HOU-TEX ... TBA-TOR
+,2021-09-15,Sep,Wed,Regular Season,15,COL-ATL ... ARI-LAN ... SLN-NYN ... CHN-PHI ... CIN-PIT ... SDN-SFN ... MIA-WAS ... NYA-BAL ... ANA-CHA ... MIL-DET ... OAK-KCA ... CLE-MIN ... BOS-SEA ... HOU-TEX ... TBA-TOR
+,2021-09-16,Sep,Thu,Regular Season,8,CHN-PHI ... CIN-PIT ... SDN-SFN ... NYA-BAL ... ANA-CHA ... OAK-KCA ... DET-TBA ... HOU-TEX
+,2021-09-17,Sep,Fri,Regular Season,15,LAN-CIN ... PIT-MIA ... CHN-MIL ... PHI-NYN ... ATL-SFN ... SDN-SLN ... COL-WAS ... OAK-ANA ... BAL-BOS ... ARI-HOU ... SEA-KCA ... CLE-NYA ... DET-TBA ... CHA-TEX ... MIN-TOR
+,2021-09-18,Sep,Sat,Regular Season,15,LAN-CIN ... PIT-MIA ... CHN-MIL ... PHI-NYN ... ATL-SFN ... SDN-SLN ... COL-WAS ... OAK-ANA ... BAL-BOS ... ARI-HOU ... SEA-KCA ... CLE-NYA ... DET-TBA ... CHA-TEX ... MIN-TOR
+,2021-09-19,Sep,Sun,Regular Season,15,LAN-CIN ... PIT-MIA ... CHN-MIL ... PHI-NYN ... ATL-SFN ... SDN-SLN ... COL-WAS ... OAK-ANA ... BAL-BOS ... ARI-HOU ... SEA-KCA ... CLE-NYA ... DET-TBA ... CHA-TEX ... MIN-TOR
+,2021-09-20,Sep,Mon,Regular Season,12,ATL-ARI ... PIT-CIN ... WAS-MIA ... SLN-MIL ... BAL-PHI ... HOU-ANA ... KCA-CLE ... KCA-CLE ... CHA-DET ... TEX-NYA ... SEA-OAK ... TOR-TBA
+,2021-09-21,Sep,Tue,Regular Season,15,ATL-ARI ... MIN-CHN ... PIT-CIN ... LAN-COL ... WAS-MIA ... SLN-MIL ... BAL-PHI ... SFN-SDN ... HOU-ANA ... NYN-BOS ... KCA-CLE ... CHA-DET ... TEX-NYA ... SEA-OAK ... TOR-TBA
+,2021-09-22,Sep,Wed,Regular Season,12,ATL-ARI ... MIN-CHN ... LAN-COL ... WAS-MIA ... SLN-MIL ... BAL-PHI ... SFN-SDN ... HOU-ANA ... NYN-BOS ... TEX-NYA ... SEA-OAK ... TOR-TBA
+,2021-09-23,Sep,Thu,Regular Season,12,ATL-ARI ... WAS-CIN ... LAN-COL ... SLN-MIL ... PIT-PHI ... SFN-SDN ... HOU-ANA ... TEX-BAL ... CHA-CLE ... CHA-CLE ... TOR-MIN ... SEA-OAK
+,2021-09-24,Sep,Fri,Regular Season,16,LAN-ARI ... SLN-CHN ... SLN-CHN ... WAS-CIN ... SFN-COL ... NYN-MIL ... PIT-PHI ... ATL-SDN ... SEA-ANA ... TEX-BAL ... NYA-BOS ... CHA-CLE ... KCA-DET ... TOR-MIN ... HOU-OAK ... MIA-TBA
+,2021-09-25,Sep,Sat,Regular Season,15,LAN-ARI ... SLN-CHN ... WAS-CIN ... SFN-COL ... NYN-MIL ... PIT-PHI ... ATL-SDN ... SEA-ANA ... TEX-BAL ... NYA-BOS ... CHA-CLE ... KCA-DET ... TOR-MIN ... HOU-OAK ... MIA-TBA
+,2021-09-26,Sep,Sun,Regular Season,15,LAN-ARI ... SLN-CHN ... WAS-CIN ... SFN-COL ... NYN-MIL ... PIT-PHI ... ATL-SDN ... SEA-ANA ... TEX-BAL ... NYA-BOS ... CHA-CLE ... KCA-DET ... TOR-MIN ... HOU-OAK ... MIA-TBA
+,2021-09-27,Sep,Mon,Regular Season,5,PIT-CIN ... WAS-COL ... KCA-CLE ... CHA-DET ... OAK-SEA
+,2021-09-28,Sep,Tue,Regular Season,16,PHI-ATL ... WAS-COL ... SDN-LAN ... MIA-NYN ... MIA-NYN ... CHN-PIT ... ARI-SFN ... MIL-SLN ... BOS-BAL ... CIN-CHA ... TBA-HOU ... CLE-KCA ... DET-MIN ... OAK-SEA ... ANA-TEX ... NYA-TOR
+,2021-09-29,Sep,Wed,Regular Season,15,PHI-ATL ... WAS-COL ... SDN-LAN ... MIA-NYN ... CHN-PIT ... ARI-SFN ... MIL-SLN ... BOS-BAL ... CIN-CHA ... TBA-HOU ... CLE-KCA ... DET-MIN ... OAK-SEA ... ANA-TEX ... NYA-TOR
+,2021-09-30,Sep,Thu,Regular Season,12,PHI-ATL ... SDN-LAN ... MIA-NYN ... CHN-PIT ... ARI-SFN ... MIL-SLN ... BOS-BAL ... TBA-HOU ... CLE-KCA ... DET-MIN ... ANA-TEX ... NYA-TOR
+,2021-10-01,Oct,Fri,Regular Season,15,COL-ARI ... NYN-ATL ... MIL-LAN ... PHI-MIA ... CIN-PIT ... SDN-SFN ... CHN-SLN ... BOS-WAS ... DET-CHA ... OAK-HOU ... MIN-KCA ... TBA-NYA ... ANA-SEA ... CLE-TEX ... BAL-TOR
+,2021-10-02,Oct,Sat,Regular Season,15,COL-ARI ... NYN-ATL ... MIL-LAN ... PHI-MIA ... CIN-PIT ... SDN-SFN ... CHN-SLN ... BOS-WAS ... DET-CHA ... OAK-HOU ... MIN-KCA ... TBA-NYA ... ANA-SEA ... CLE-TEX ... BAL-TOR
+,2021-10-03,Oct,Sun,Regular Season,15,COL-ARI ... NYN-ATL ... MIL-LAN ... PHI-MIA ... CIN-PIT ... SDN-SFN ... CHN-SLN ... BOS-WAS ... DET-CHA ... OAK-HOU ... MIN-KCA ... TBA-NYA ... ANA-SEA ... CLE-TEX ... BAL-TOR
